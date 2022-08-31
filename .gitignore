@@ -1,0 +1,6 @@
+**/log
+**/node_modules
+*.OLD
+*.SAV
+./public/cgDNAweb.js
+./public/stylesheet.css

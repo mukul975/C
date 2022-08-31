@@ -1,0 +1,1278 @@
+[20180215 11:18:26] [info] Listening at "http://*:3457"
+[20180215 11:18:26] [info] Manager 79683 started
+[20180215 11:18:26] [info] Creating process id file "/home/debruin/cgdna_web/script/hypnotoad.pid"
+[20180215 11:20:33] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 11:20:33] [info] dataprovider: processing param_id="PS4", seq_id=AAAAGGGG
+[20180215 11:20:33] [info] service time (0.061451s, 16.273/s)
+[20180215 13:23:47] [info] if_loggedin: granting access to /view1 to generic user at 128.178.109.243
+[20180215 13:40:40] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 13:40:40] [info] dataprovider: processing param_id="PS4", seq_id=AAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[20180215 13:40:40] [info] service time (0.060501s, 16.529/s)
+[20180215 13:41:35] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 13:41:35] [info] dataprovider: processing param_id="PS4", seq_id=A_10G_6
+[20180215 13:41:35] [info] service time (0.071978s, 13.893/s)
+[20180215 13:42:30] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 13:42:30] [info] dataprovider: processing param_id="PS4", seq_id=(a_5 g_5 t_5 c_5 g)_2 a_5 g_5 t_5 c_5 [g](a_5 g_5 t_5 c_5 g)_2
+[20180215 13:42:30] [info] service time (0.140357s, 7.125/s)
+[20180215 13:43:08] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 13:43:08] [info] dataprovider: processing param_id="PS4", seq_id=(a_5 g_5 t_5 c_5 g)_2 a_5 g_5 t_5 c_5 [g](a_5 g_5 t_5 c_5 g)_2
+[20180215 13:43:08] [info] service time (0.101633s, 9.839/s)
+[20180215 13:43:13] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 13:43:13] [info] dataprovider: processing param_id="PS4", seq_id=(a_5 g_5 t_5 c_5 g)_2 a_5 g_5 t_5 c_5 [g](a_5 g_5 t_5 c_5 g)_2
+[20180215 13:43:13] [info] service time (0.101219s, 9.880/s)
+[20180215 14:07:20] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 14:07:20] [info] dataprovider: processing param_id="PS4", seq_id=(a_5 g_5 t_5 c_5 g)_2 a_5 g_5 t_5 c_5 [g](a_5 g_5 t_5 c_5 g)_2
+[20180215 14:07:20] [info] service time (0.135627s, 7.373/s)
+[20180215 14:28:13] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 14:28:13] [info] dataprovider: processing param_id="PS4", seq_id=a_20
+[20180215 14:28:13] [info] service time (0.056818s, 17.600/s)
+[20180215 14:28:49] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 14:28:49] [info] dataprovider: processing param_id="PS4", seq_id=(at)_10
+[20180215 14:28:49] [info] service time (0.077096s, 12.971/s)
+[20180215 14:29:29] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 14:29:29] [info] dataprovider: processing param_id="PS4", seq_id=G_20
+[20180215 14:29:29] [info] service time (0.072849s, 13.727/s)
+[20180215 16:26:20] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 16:26:20] [info] dataprovider: processing param_id=PS4, seq_id=(a_5 g_5 t_5 c_5 g)_2 a_5 g_5 t_5 c_5 [g](a_5 g_5 t_5 c_5 g)_2
+[20180215 16:26:20] [info] service time (0.141584s, 7.063/s)
+[20180215 16:49:21] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 16:49:21] [info] dataprovider: processing param_id="PS4", seq_id=GCGGAAAATGTCAGAAGTCCATTTCTGTCAAACCCCCCAAAAATCCAGTACGACCGAAAGGAAAGCGGCGGAATACACTGAAAACACCATAAACACACCCCACCAAACCCAGAAGCGACCAAGGCAGGAAAGCAACCCCCAAAGTACAAACCAGCGACTCAGACCCCAAATCACCTAGGAAAACCCCTGTCCAGCACTCCCGGAGGCAAACCCCGTCCCCGAAATCGGGCTAGACCAAACCACCCGCCAAACCCCCTGCCAGGAGGCCTAAAATTCCAACCGAAAATCGCGGTTACTTTTTTGGAGCCCGAAAACCACCCAAAATCAAGGAAAAATGGAAAAAATGCCAAAAAATAGCGAAAATACCCCGAAAATTGGCAAAAATTACAAAAAATAGCGAATTTCCCTGAATTTTAGGCGAAAAAACCCCCGAAAAGGCCAAAAACGCACTGAAAATCAAAATCTGAACGTCTACGCCTCTGCTAGAGTCTGTCTACCACCCGGGTCGGTTAAATATGTCGGCCGTATTAAATCACATGACAAAATCATGCGATGAGGTTAGGAAAGGGAAAGACAATGTCTTTCCGCGATCACCATCCTATATCTGTTGCTTGACCCCCTCTGTCTC
+[20180215 16:49:21] [info] service time (0.382028s, 2.618/s)
+[20180215 20:44:50] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 20:44:50] [info] dataprovider: processing param_id="PS4", seq_id=GGGAAAGGGAAGGAAAGGAA
+[20180215 20:44:50] [info] service time (0.069989s, 14.288/s)
+[20180215 20:45:03] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 20:45:03] [info] dataprovider: processing param_id="PS4", seq_id=(GGGAAAGGGAAGGAAAGGAA)_50
+[20180215 20:45:04] [info] service time (0.755776s, 1.323/s)
+[20180215 20:45:43] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 20:45:43] [info] dataprovider: processing param_id="PS4", seq_id=(GGGAAGGGAAGGAAAAGGAA)_50
+[20180215 20:45:44] [info] service time (0.762018s, 1.312/s)
+[20180215 20:45:57] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 20:45:57] [info] dataprovider: processing param_id="PS4", seq_id=(GGGAAAAGGGAAGGAAAAGGAA)_50
+[20180215 20:45:58] [info] service time (0.891893s, 1.121/s)
+[20180215 20:46:13] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 20:46:13] [info] dataprovider: processing param_id="PS4", seq_id=(GGGAAAAGGGAGGAAAAGGAA)_50
+[20180215 20:46:14] [info] service time (0.821787s, 1.217/s)
+[20180215 20:46:30] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 20:46:30] [info] dataprovider: processing param_id="PS4", seq_id=(GGGAAAAGGGAGGAAAGGAA)_50
+[20180215 20:46:31] [info] service time (0.787237s, 1.270/s)
+[20180215 20:46:47] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 20:46:47] [info] dataprovider: processing param_id="PS4", seq_id=(GGGAAAAGGGAGGAAGGAA)_50
+[20180215 20:46:48] [info] service time (0.692068s, 1.445/s)
+[20180215 20:47:01] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 20:47:01] [info] dataprovider: processing param_id="PS4", seq_id=(GGGAAAAGGGAGGAGGAA)_50
+[20180215 20:47:02] [info] service time (0.708498s, 1.411/s)
+[20180215 20:47:14] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 20:47:14] [info] dataprovider: processing param_id="PS4", seq_id=(GGGAAAAGGGAGGAAAGGAA)_50
+[20180215 20:47:15] [info] service time (0.751786s, 1.330/s)
+[20180215 20:47:27] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 20:47:27] [info] dataprovider: processing param_id="PS4", seq_id=(GGGAAAAGGGAGGAAAGGAA)_50
+[20180215 20:47:28] [info] service time (0.762187s, 1.312/s)
+[20180215 20:47:43] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 20:47:43] [info] dataprovider: processing param_id="PS4", seq_id=(GGGAAAAGGGAGGAAAGGAA)_1
+[20180215 20:47:43] [info] service time (0.078498s, 12.739/s)
+[20180215 20:47:55] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 20:47:55] [info] dataprovider: processing param_id="PS4", seq_id=(GGGAAAAGGGAGGAAAGGAA)_2
+[20180215 20:47:55] [info] service time (0.086312s, 11.586/s)
+[20180215 20:48:04] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 20:48:04] [info] dataprovider: processing param_id="PS4", seq_id=(GGGAAAAGGGAGGAAAGGA)_2
+[20180215 20:48:04] [info] service time (0.066728s, 14.986/s)
+[20180215 20:48:12] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 20:48:12] [info] dataprovider: processing param_id="PS4", seq_id=(GGGAAAAGGGAGGAAAGGA)_20
+[20180215 20:48:12] [info] service time (0.208374s, 4.799/s)
+[20180215 20:48:23] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 20:48:23] [info] dataprovider: processing param_id="PS4", seq_id=(GGGAAAAGGGAGGAAAGGAAA)_20
+[20180215 20:48:23] [info] service time (0.229521s, 4.357/s)
+[20180215 20:48:31] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 20:48:31] [info] dataprovider: processing param_id="PS4", seq_id=(GGGAAAAGGGAGGAAAGGAAA)_50
+[20180215 20:48:32] [info] service time (0.828975s, 1.206/s)
+[20180215 23:41:25] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 23:41:25] [info] dataprovider: processing param_id="PS4", seq_id=(AT)_20
+[20180215 23:41:25] [info] service time (0.064346s, 15.541/s)
+[20180215 23:41:44] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 23:41:44] [info] dataprovider: processing param_id="PS4", seq_id=(A)_20
+[20180215 23:41:44] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 23:41:44] [info] dataprovider: processing param_id="PS4", seq_id=(A)_20
+[20180215 23:41:44] [info] service time (0.059083s, 16.925/s)
+[20180215 23:41:44] [info] service time (0.053594s, 18.659/s)
+[20180215 23:41:47] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 23:41:47] [info] dataprovider: processing param_id="PS4", seq_id=(A)_40
+[20180215 23:41:47] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 23:41:47] [info] dataprovider: processing param_id="PS4", seq_id=(A)_40
+[20180215 23:41:47] [info] service time (0.107001s, 9.346/s)
+[20180215 23:41:47] [info] service time (0.132769s, 7.532/s)
+[20180215 23:42:13] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 23:42:13] [info] dataprovider: processing param_id="PS4", seq_id=(AAAAATTTT)_40
+[20180215 23:42:13] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 23:42:13] [info] dataprovider: processing param_id="PS4", seq_id=(AAAAATTTT)_40
+[20180215 23:42:13] [info] service time (0.258726s, 3.865/s)
+[20180215 23:42:13] [info] service time (0.279873s, 3.573/s)
+[20180215 23:42:19] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 23:42:19] [info] dataprovider: processing param_id="PS4", seq_id=(AAAAATTTT)_40
+[20180215 23:42:19] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 23:42:19] [info] dataprovider: processing param_id="PS4", seq_id=(AAAAATTTT)_40
+[20180215 23:42:19] [info] service time (0.2516s, 3.975/s)
+[20180215 23:42:19] [info] service time (0.252335s, 3.963/s)
+[20180215 23:43:26] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 23:43:26] [info] dataprovider: processing param_id="PS4", seq_id=(AAAATTTT)_40
+[20180215 23:43:26] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 23:43:26] [info] dataprovider: processing param_id="PS4", seq_id=(AAAATTTT)_40
+[20180215 23:43:27] [info] service time (0.230515s, 4.338/s)
+[20180215 23:43:27] [info] service time (0.247031s, 4.048/s)
+[20180215 23:43:49] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 23:43:49] [info] dataprovider: processing param_id="PS4", seq_id=(AAAATCGCATT)_40
+[20180215 23:43:49] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 23:43:49] [info] dataprovider: processing param_id="PS4", seq_id=(AAAATCGCATT)_40
+[20180215 23:43:49] [info] service time (0.322939s, 3.097/s)
+[20180215 23:43:49] [info] service time (0.331071s, 3.021/s)
+[20180215 23:44:48] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 23:44:48] [info] dataprovider: processing param_id="PS4", seq_id=(AAAAAATTTTT)_40
+[20180215 23:44:48] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 23:44:48] [info] dataprovider: processing param_id="PS4", seq_id=(AAAAAATTTTT)_40
+[20180215 23:44:49] [info] service time (0.290863s, 3.438/s)
+[20180215 23:44:49] [info] service time (0.294192s, 3.399/s)
+[20180215 23:46:22] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 23:46:22] [info] dataprovider: processing param_id="PS4", seq_id=(AAAACATTTTT)_40
+[20180215 23:46:22] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 23:46:22] [info] dataprovider: processing param_id="PS4", seq_id=(AAAACATTTTT)_40
+[20180215 23:46:23] [info] service time (0.31577s, 3.167/s)
+[20180215 23:46:23] [info] service time (0.336435s, 2.972/s)
+[20180215 23:46:41] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 23:46:41] [info] dataprovider: processing param_id="PS4", seq_id=(AAAATTTTT)_40
+[20180215 23:46:42] [info] service time (0.198296s, 5.043/s)
+[20180215 23:46:53] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 23:46:53] [info] dataprovider: processing param_id="PS4", seq_id=(AAAACTTTTT)_40
+[20180215 23:46:53] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 23:46:53] [info] dataprovider: processing param_id="PS4", seq_id=(AAAACTTTTT)_40
+[20180215 23:46:54] [info] service time (0.282961s, 3.534/s)
+[20180215 23:46:54] [info] service time (0.289758s, 3.451/s)
+[20180215 23:47:51] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 23:47:51] [info] dataprovider: processing param_id="PS4", seq_id=(AAAACGGTTTT)_40
+[20180215 23:47:51] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 23:47:51] [info] dataprovider: processing param_id="PS4", seq_id=(AAAACGGTTTT)_40
+[20180215 23:47:52] [info] service time (0.320876s, 3.116/s)
+[20180215 23:47:52] [info] service time (0.326625s, 3.062/s)
+[20180215 23:48:29] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 23:48:29] [info] dataprovider: processing param_id="PS4", seq_id=(AAAACGGTTTT)_20
+[20180215 23:48:29] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 23:48:29] [info] dataprovider: processing param_id="PS4", seq_id=(AAAACGGTTTT)_20
+[20180215 23:48:29] [info] service time (0.186052s, 5.375/s)
+[20180215 23:48:29] [info] service time (0.192367s, 5.198/s)
+[20180215 23:49:07] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 23:49:07] [info] dataprovider: processing param_id="PS4", seq_id=(AAAACGGTTTTAGCTCGAAAAC)_20
+[20180215 23:49:07] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180215 23:49:07] [info] dataprovider: processing param_id="PS4", seq_id=(AAAACGGTTTTAGCTCGAAAAC)_20
+[20180215 23:49:07] [info] service time (0.309166s, 3.235/s)
+[20180215 23:49:07] [info] service time (0.316903s, 3.156/s)
+[20180216 04:01:07] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180216 04:01:07] [info] dataprovider: processing param_id="PS4", seq_id=(ACTG)_30
+[20180216 04:01:07] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180216 04:01:07] [info] dataprovider: processing param_id="PS4", seq_id=(ACTG)_30
+[20180216 04:01:07] [info] service time (0.160292s, 6.239/s)
+[20180216 04:01:07] [info] service time (0.166931s, 5.990/s)
+[20180216 04:01:39] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180216 04:01:39] [info] dataprovider: processing param_id="PS4", seq_id=(AACG)_30
+[20180216 04:01:39] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180216 04:01:39] [info] dataprovider: processing param_id="PS4", seq_id=(AACG)_30
+[20180216 04:01:40] [info] service time (0.154622s, 6.467/s)
+[20180216 04:01:40] [info] service time (0.174226s, 5.740/s)
+[20180216 04:02:24] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180216 04:02:24] [info] dataprovider: processing param_id="PS4", seq_id=(AAAAGCCG)_15
+[20180216 04:02:24] [info] service time (0.123097s, 8.124/s)
+[20180216 04:02:53] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180216 04:02:53] [info] dataprovider: processing param_id="PS4", seq_id=(AAAAGCCGTTTT)_15
+[20180216 04:02:53] [info] service time (0.125876s, 7.944/s)
+[20180216 07:26:03] [info] if_loggedin: granting access to /view1 to generic user at 128.178.109.243
+[20180216 11:19:47] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180216 11:19:47] [info] dataprovider: processing param_id="PS4", seq_id=GCGGAAAATGTCAGAAGTCCATTTCTGTCAAACCCCCCAAAAATCCAGTACGACCGAAAGGAAAGCGGCGGAATACACTGAAAACACCATAAACACACCCCACCAAACCCAGAAGCGACCAAGGCAGGAAAGCAACCCCCAAAGTACAAACCAGCGACTCAGACCCCAAATCACCTAGGAAAACCCCTGTCCAGCACTCCCGGAGGCAAACCCCGTCCCCGAAATCGGGCTAGACCAAACCACCCGCCAAACCCCCTGCCAGGAGGCCTAAAATTCCAACCGAAAATCGCGGTTACTTTTTTGGAGCCCGAAAACCACCCAAAATCAAGGAAAAATGGAAAAAATGCCAAAAAATAGCGAAAATACCCCGAAAATTGGCAAAAATTACAAAAAATAGCGAATTTCCCTGAATTTTAGGCGAAAAAACCCCCGAAAAGGCCAAAAACGCACTGAAAATCAAAATCTGAACGTCTACGCCTCTGCTAGAGTCTGTCTACCACCCGGGTCGGTTAAATATGTCGGCCGTATTAAATCACATGACAAAATCATGCGATGAGGTTAGGAAAGGGAAAGACAATGTCTTTCCGCGATCACCATCCTATATCTGTTGCTTGACCCCCTCTGTCTC
+[20180216 11:19:47] [info] service time (0.381239s, 2.623/s)
+[20180216 11:20:05] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180216 11:20:05] [info] dataprovider: processing param_id="PS3", seq_id=GCGGAAAATGTCAGAAGTCCATTTCTGTCAAACCCCCCAAAAATCCAGTACGACCGAAAGGAAAGCGGCGGAATACACTGAAAACACCATAAACACACCCCACCAAACCCAGAAGCGACCAAGGCAGGAAAGCAACCCCCAAAGTACAAACCAGCGACTCAGACCCCAAATCACCTAGGAAAACCCCTGTCCAGCACTCCCGGAGGCAAACCCCGTCCCCGAAATCGGGCTAGACCAAACCACCCGCCAAACCCCCTGCCAGGAGGCCTAAAATTCCAACCGAAAATCGCGGTTACTTTTTTGGAGCCCGAAAACCACCCAAAATCAAGGAAAAATGGAAAAAATGCCAAAAAATAGCGAAAATACCCCGAAAATTGGCAAAAATTACAAAAAATAGCGAATTTCCCTGAATTTTAGGCGAAAAAACCCCCGAAAAGGCCAAAAACGCACTGAAAATCAAAATCTGAACGTCTACGCCTCTGCTAGAGTCTGTCTACCACCCGGGTCGGTTAAATATGTCGGCCGTATTAAATCACATGACAAAATCATGCGATGAGGTTAGGAAAGGGAAAGACAATGTCTTTCCGCGATCACCATCCTATATCTGTTGCTTGACCCCCTCTGTCTC
+[20180216 11:20:05] [info] service time (0.407766s, 2.452/s)
+[20180217 03:30:37] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180217 03:30:37] [info] dataprovider: processing param_id="PS4", seq_id=(GGAAGGAAGG)_10
+[20180217 03:30:37] [info] service time (0.127606s, 7.837/s)
+[20180217 03:30:53] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180217 03:30:53] [info] dataprovider: processing param_id="PS4", seq_id=(GGAAGGAAGG)_100
+[20180217 03:30:54] [info] service time (0.78494s, 1.274/s)
+[20180217 03:32:22] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180217 03:32:22] [info] dataprovider: processing param_id="PS4", seq_id=(GGAAGGGAGG)_100
+[20180217 03:32:23] [info] service time (0.849573s, 1.177/s)
+[20180217 03:32:59] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180217 03:32:59] [info] dataprovider: processing param_id="PS4", seq_id=(GGAGGGGAGG)_100
+[20180217 03:33:00] [info] service time (0.777098s, 1.287/s)
+[20180217 03:33:40] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180217 03:33:40] [info] dataprovider: processing param_id="PS4", seq_id=(GAGGGGGAGG)_100
+[20180217 03:33:41] [info] service time (0.78721s, 1.270/s)
+[20180217 03:34:43] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180217 03:34:43] [info] dataprovider: processing param_id="PS4", seq_id=(GAAGGGGGAGG)_100
+[20180217 03:34:44] [info] service time (0.898854s, 1.113/s)
+[20180217 03:37:18] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180217 03:37:18] [info] dataprovider: processing param_id="PS4", seq_id=(GATGGGGGAGG)_100
+[20180217 03:37:19] [info] service time (0.900775s, 1.110/s)
+[20180217 03:38:14] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180217 03:38:14] [info] dataprovider: processing param_id="PS4", seq_id=(GAGAGAGAGG)_100
+[20180217 03:38:15] [info] service time (0.838661s, 1.192/s)
+[20180217 07:27:38] [info] if_loggedin: granting access to /view1 to generic user at 128.178.109.243
+[20180218 07:28:20] [info] if_loggedin: granting access to /view1 to generic user at 128.178.109.243
+[20180219 07:29:53] [info] if_loggedin: granting access to /view1 to generic user at 128.178.109.243
+[20180219 09:51:09] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180219 09:51:09] [info] dataprovider: processing param_id="PS4", seq_id=g_20
+[20180219 09:51:09] [info] service time (0.06714s, 14.894/s)
+[20180219 09:51:19] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180219 09:51:19] [info] dataprovider: processing param_id="PS4", seq_id=a_20
+[20180219 09:51:19] [info] service time (0.056216s, 17.789/s)
+[20180219 09:51:52] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180219 09:51:52] [info] dataprovider: processing param_id="PS4", seq_id=(at)_10
+[20180219 09:51:52] [info] service time (0.078708s, 12.705/s)
+[20180219 15:49:38] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180219 15:49:38] [info] dataprovider: processing param_id="PS4", seq_id=(AAAAA)_20
+[20180219 15:49:38] [info] service time (0.116158s, 8.609/s)
+[20180219 15:50:09] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180219 15:50:09] [info] dataprovider: processing param_id="PS4", seq_id=(AAAAAGCGCG)_10
+[20180219 15:50:09] [info] service time (0.08691s, 11.506/s)
+[20180219 15:50:34] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180219 15:50:34] [info] dataprovider: processing param_id="PS4", seq_id=(AAAAAAAAAA)_10
+[20180219 15:50:34] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180219 15:50:34] [info] dataprovider: processing param_id="PS4", seq_id=(AAAAAAAAAA)_10
+[20180219 15:50:35] [info] service time (0.142744s, 7.006/s)
+[20180219 15:50:35] [info] service time (0.143704s, 6.959/s)
+[20180219 15:51:00] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180219 15:51:00] [info] dataprovider: processing param_id="PS4", seq_id=(AAAAACGGCC)_10
+[20180219 15:51:01] [info] service time (0.092392s, 10.823/s)
+[20180219 15:52:00] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180219 15:52:00] [info] dataprovider: processing param_id="PS4", seq_id=(AAAAATCGGC)_10
+[20180219 15:52:01] [info] service time (0.132989s, 7.519/s)
+[20180219 15:52:10] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180219 15:52:10] [info] dataprovider: processing param_id="PS4", seq_id=(AAAAATCGGCG)_10
+[20180219 15:52:10] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180219 15:52:10] [info] dataprovider: processing param_id="PS4", seq_id=(AAAAATCGGCG)_10
+[20180219 15:52:10] [info] service time (0.129029s, 7.750/s)
+[20180219 15:52:10] [info] service time (0.141937s, 7.045/s)
+[20180219 15:52:24] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180219 15:52:24] [info] dataprovider: processing param_id="PS4", seq_id=(AAAAGTCGGCG)_10
+[20180219 15:52:24] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180219 15:52:24] [info] dataprovider: processing param_id="PS4", seq_id=(AAAAGTCGGCG)_10
+[20180219 15:52:24] [info] service time (0.145405s, 6.877/s)
+[20180219 15:52:24] [info] service time (0.173212s, 5.773/s)
+[20180219 15:52:39] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180219 15:52:39] [info] dataprovider: processing param_id="PS4", seq_id=(AAAACTCGATG)_10
+[20180219 15:52:39] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180219 15:52:39] [info] dataprovider: processing param_id="PS4", seq_id=(AAAACTCGATG)_10
+[20180219 15:52:39] [info] service time (0.139253s, 7.181/s)
+[20180219 15:52:39] [info] service time (0.153711s, 6.506/s)
+[20180219 15:52:58] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180219 15:52:58] [info] dataprovider: processing param_id="PS4", seq_id=(AAAAATATAT)_10
+[20180219 15:52:58] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180219 15:52:58] [info] dataprovider: processing param_id="PS4", seq_id=(AAAAATATAT)_10
+[20180219 15:52:58] [info] service time (0.131759s, 7.590/s)
+[20180219 15:52:58] [info] service time (0.150853s, 6.629/s)
+[20180219 15:53:27] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180219 15:53:27] [info] dataprovider: processing param_id="PS4", seq_id=(AAAAACGGCC)_20
+[20180219 15:53:27] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180219 15:53:27] [info] dataprovider: processing param_id="PS4", seq_id=(AAAAACGGCC)_20
+[20180219 15:53:27] [info] service time (0.167513s, 5.970/s)
+[20180219 15:53:27] [info] service time (0.187732s, 5.327/s)
+[20180219 15:53:44] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180219 15:53:44] [info] dataprovider: processing param_id="PS4", seq_id=(AAAAACGGCC)_40
+[20180219 15:53:44] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180219 15:53:44] [info] dataprovider: processing param_id="PS4", seq_id=(AAAAACGGCC)_40
+[20180219 15:53:44] [info] service time (0.275355s, 3.632/s)
+[20180219 15:53:44] [info] service time (0.288961s, 3.461/s)
+[20180219 15:54:19] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180219 15:54:19] [info] dataprovider: processing param_id="PS4", seq_id=(CTGATCGTAG)_40
+[20180219 15:54:19] [info] service time (0.241482s, 4.141/s)
+[20180219 15:55:33] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180219 15:55:33] [info] dataprovider: processing param_id="PS4", seq_id=TCAGCTGCATGCTGCATGGCCTGATCTGCAAGCTTATGCATGCGGGAATT
+[20180219 15:55:33] [info] service time (0.072048s, 13.880/s)
+[20180219 15:56:03] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180219 15:56:03] [info] dataprovider: processing param_id="PS4", seq_id=(TCAGCTGCATGCTGCATGGCCTGATCTGCAAGCTTATGCATGCGGGAATT)_155
+[20180219 15:56:03] [info] service time (0.019791s, 50.528/s)
+[20180219 15:56:11] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180219 15:56:11] [info] dataprovider: processing param_id="PS4", seq_id=(TCAGCTGCATGCTGCATGGCCTGATCTGCAAGCTTATGCATGCGGGAATT)_15
+[20180219 15:56:11] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180219 15:56:11] [info] dataprovider: processing param_id="PS4", seq_id=(TCAGCTGCATGCTGCATGGCCTGATCTGCAAGCTTATGCATGCGGGAATT)_15
+[20180219 15:56:11] [info] service time (0.593805s, 1.684/s)
+[20180219 15:56:11] [info] service time (0.62071s, 1.611/s)
+[20180219 16:51:13] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180219 16:51:13] [info] dataprovider: processing param_id="PS4", seq_id=(AAAAGCCGTTTT)_15
+[20180219 16:51:13] [info] service time (0.142644s, 7.010/s)
+[20180219 16:57:20] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180219 16:57:20] [info] dataprovider: processing param_id="PS4", seq_id=agcttCGCCCAAATACGCCCAAATACGCCCAAATACGCC CAAATACGCCCAAATACGCCCAAATACGCCCAAATAC GCCCAAATACGCCCAAATACGCCCAAATACGCCCAAA TACGCCCAAATAa
+[20180219 16:57:20] [info] service time (0.149023s, 6.710/s)
+[20180219 16:58:40] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180219 16:58:40] [info] dataprovider: processing param_id="PS4", seq_id=agcttCGCCCAAATACGCCCAAATACGCCCAAATACGCCCAAATACGCCCAAATACGCCCAAATACGCCCAAATACGCCCAAATACGCCCAAATACGCCCAAATACGCCCAAATACGCCCAAATAa
+[20180219 16:58:40] [info] service time (0.109617s, 9.123/s)
+[20180219 21:05:26] [info] if_loggedin: granting access to /data/usr to generic user at 128.178.166.117
+[20180219 21:05:26] [error] cannot read /home/debruin/cgdna_web/data/usr.json : No such file or directory
+[20180219 21:05:26] [info] service time (0.001618s, 618.047/s)
+[20180219 21:05:26] [error] Can't call method "getlines" on an undefined value at /home/debruin/cgdna_web/script/../lib/CgdnaWeb/Controller/DataProvider.pm line 31.
+
+[20180220 07:30:42] [info] if_loggedin: granting access to /view1 to generic user at 128.178.109.243
+[20180220 10:35:36] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180220 10:35:36] [info] dataprovider: processing param_id="PS4", seq_id=gatttcgaaa
+[20180220 10:35:36] [info] service time (0.048013s, 20.828/s)
+[20180220 10:38:49] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180220 10:38:49] [info] dataprovider: processing param_id="PS4", seq_id=ggcgacagagcgagactctgtctcaaaaaaaaaatatatatatatatatatatacacatatatatataaaatatatatatatacacacatatatatataaaatatatatatatacacacatatatataaaatatatatatatacacacatatatataaaatatatatatacacacatatatataaaatatatatatacacacatatatataaaatatatatatacacacatatatataaaatatatatatacacacatatatataaaatatatatatacacacatatatataaaatatatatatacacacatatatataaaatatatatatacacacatatatataaaatatatatatacacacatatatataaaatatatatatacacacatatatataaaatatatatatacacacatatataaaatatatatatacacacatatataaaatatatatatacacatatatataaaatatatatatacacatatatataaaatatatatacacacatatatataaaatatatatatacacacatatatataaaatatatatatacacatatatataaaatatatatatacacatatatataaaatatatatatatacacatatatataaaatatatatacacacatatatataaagtatatatatacacacatatatataaaatatatatatacacatatatataaaatatatatatacacatatatataaaatatatatatacacatatatataaaaatatatatatatattttttaaaatattccaattgtctcactttgtgga
+[20180220 10:38:49] [info] service time (0.586391s, 1.705/s)
+[20180220 10:39:43] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180220 10:39:43] [info] dataprovider: processing param_id="PS4", seq_id=ggcgacagagcgagactctgtctcaaaaaaaaaatatatatatatatatatatacacatatatatataaaatatatatatatacacacatatatatataaaatatatatatatacacacatatatataaaatatatatatatacacacatatatataaaatatatatatacacacatatatataaaatatatatatacacacatatatataaaatatatatatacacacatatatataaaatatatatatacacacatatatataaaatatatatatacacacatatatataaaatatatatatacacacatatatataaaatatatatatacacacatatatataaaatatatatatacacacatatatataaaatatatatatacacacatatatataaaatatatatatacacacatatataaaatatatatatacacacatatataaaatatatatatacacatatatataaaatatatatatacacatatatataaaatatatatacacacatatatataaaatatatatatacacacatatatataaaatatatatatacacatatatataaaatatatatatacacatatatataaaatatatatatatacacatatatataaaatatatatacacacatatatataaagtatatatatacacacatatatataaaatatatatatacacatatatataaaatatatatatacacatatatataaaatatatatatacacatatatataaaaatatatatatatattttttaaaatattccaattgtctcactttgtgga
+[20180220 10:39:44] [info] service time (0.526335s, 1.900/s)
+[20180220 12:07:19] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180220 12:07:19] [info] dataprovider: processing param_id="PS4", seq_id=cagtgctgcaatgataccgcgagacccacgctcaccggctccagatttatcagcaataaaccagccagccggaagggccgagcgcagaagtggtcctgcaactttatccgcctccatccagtctattaattgttgccgggaagctagagtaagtagttcgccagttaatagtttgcgcaacgttgttgccattgctacaggcatcgtggtgtcacgctcgtcgtttggtatggcttcattcagctccggttcccaacgatcaaggcgagttacatgatcccccatgttgtgcaaaaaagcggttagctccttcggtcctccgatcgttgtcagaagtaagttggccgcagtgttatcactcatggttatggcagcactgcataattctcttactgtcatgccatccgtaagatgcttttctgtgactggtgagtactcaaccaagtcattctgagaatagtgtatgcggcgaccgagttgctcttgcccggcgtcaatacgggataataccgcgccacatagcagaactttaaaagtgctcatcattggaaaacgttcttcggggcgaaaactctcaagga
+[20180220 12:07:19] [info] service time (0.362159s, 2.761/s)
+[20180220 12:47:43] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180220 12:47:43] [info] dataprovider: processing param_id=PS4, seq_id=(ACTG_5A)_2 [C] AGAGA
+[20180220 12:47:43] [info] service time (0.073621s, 13.583/s)
+[20180220 12:50:05] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180220 12:50:05] [info] dataprovider: processing param_id=PS4, seq_id=(ACTG_5A)_20 [C] AGAGA
+[20180220 12:50:05] [info] service time (0.135971s, 7.355/s)
+[20180220 12:50:20] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180220 12:50:20] [info] dataprovider: processing param_id=PS4, seq_id=(ACTG_5A)_100
+[20180220 12:50:21] [info] service time (0.665365s, 1.503/s)
+[20180220 12:50:43] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180220 12:50:43] [info] dataprovider: processing param_id=PS4, seq_id=(GCA_3GC)_100
+[20180220 12:50:43] [info] service time (0.445726s, 2.244/s)
+[20180220 12:51:04] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180220 12:51:04] [info] dataprovider: processing param_id=PS4, seq_id=(TACGCA_5GCTA)_100
+[20180220 12:51:05] [info] service time (1.330752s, 0.751/s)
+[20180220 12:52:06] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180220 12:52:06] [info] dataprovider: processing param_id=PS4, seq_id=(TACGCA)_100
+[20180220 12:52:06] [info] service time (0.386707s, 2.586/s)
+[20180220 12:52:20] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180220 12:52:20] [info] dataprovider: processing param_id=PS3, seq_id=(TACGCA)_100
+[20180220 12:52:21] [info] service time (0.370899s, 2.696/s)
+[20180220 12:52:36] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180220 12:52:36] [info] dataprovider: processing param_id=PS3, seq_id=(TACGTATCGACA)_100
+[20180220 12:52:37] [info] service time (1.017859s, 0.982/s)
+[20180220 13:05:02] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180220 13:05:02] [info] dataprovider: processing param_id="PS4", seq_id=cgagctcttacgcgtgctagcccgggaccaagatggcgaccgctgctgctgtggcttaggccgcctccccagccgggtgggcacctgtcctccggtccggaaggtggccggctgtccccggcccacacagggtgctgcctcagcgcctctgtgcttctgcctgttccagaagctgtcaggttctctggcgcaccctctcacctgttcagactaatttcctaagttcggcgggtcccggaccaagatggcgaccgctgctgctgtggcttaggtcgcctccccagccgggcgggcacctgtcctccggtccggaaggtggccggctgtccccggcccacacagggtgctgcctcagtgcctctgtgcttccgcctgttccagaagctgtcaggttctctggcgcaccctctcacctgttcagactaatttcctaagttcctcaatacacttcttgagtacatgaacattggttctttagctaaataataaaaatattcatgattaccctgtcaacaaaatcattagcattttatctactattttgtctatttattctagtccatacctatacttattctattattatactattctacctactattttatctacttattttactttttagaaatttagattacactttgtcacactatcactgaaactatacaaatagccctcttagaaaattatggagtgatatatttagttcataatttcactgaattcaaagctcaatatatcagagatgacacaggtcattggttctgtttataagtaaaactttgtttctatttgttaagtaaaatctatcactcagatgaaggccaaaataggccaaattatctctcctattctatgtcatctcctctgctctcttttctcagtaccaaagcatgttaggaccatgtccaaggcattctctcctcatcttttctcagtgccaaatgcatttcttcaaacctcaggatgcagcataaaagcaacagatatatgaacaagagtagggggacccagagcttctcttcatgtcaccagataagaaaagaaaatgtcaaacagcacagccagccttctttccctactttttcttcagtcgctgtgacctgaagatgttagcagttacttgtcaaaatgacactgttcagggaagtgccgctgctttagaactacaatcgtttcatttatatcgtgtcttactctgattttataaattaatagagcaaccccaaatctcatcaaataaagtagtgggttttcactttgtgttttgggggttcacagtgattggaaactgatcattcttatgcttggaatattgacatcccccatggctatgaataaagtgcgttttacaattttaaataagtgcttttgcttgagttcctttttctcaaggttctgtcatcgagtgcatgtttctaacatgatgcctttcagcccacactctccttgggctgctttcctgtgcattctctaggattcctccttcattccactgcctgactcagacagatgctgtcagaacaatttacatccattttttctttccttccttctttccttccttccttccttccttccttccttccttcctttctttctttcttttctttctttctttctttcttttgcccagaaatgaccaaacacttaatgttcagcaaaaaatgtattttgactcagtagctaatttagcacatacccaggataatctgctcatttcctaacacactgtactacactttaaagaggtctggtagtacatgatggaaacaatgaggaataaagaggatttgatggtgatcttcaattctatattgctcatggacatgttgttgctttaagagaggaagtttctagaaacacacattagaaactttttttttccattttttattaggtatttaactcatttacatttccaatgctataccaaaagtcccccatatccacccacccccactcccctgcccacccactccccctttttggccctg
+[20180220 13:05:05] [info] service time (2.423301s, 0.413/s)
+[20180220 13:06:58] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180220 13:06:58] [info] dataprovider: processing param_id="PS4", seq_id=cgagctcttacgcgtgctagcccgggaccaagatggcgaccgctgctgctgtggcttaggccgcctccccagccgggtgggcacctgtcctccggtccggaaggtggccggctgtccccggcccacacagggtgctgcctcagcgcctctgtgcttctgcctgttccagaagctgtcaggttctctggcgcaccctctcacctgttcagactaatttcctaagttcggcgggtcccggaccaagatggcgaccgctgctgctgtggcttaggtcgcctccccagccgggcgggcacctgtcctccggtccggaaggtggccggctgtccccggcccacacagggtgctgcctcagtgcctctgtgcttccgcctgttccagaagctgtcaggttctctggcgcaccctctcacctgttcagactaatttcctaagttcctcaatacacttcttgagtacatgaacattggttctttagctaaataataaaaatattcatgattaccctgtcaacaaaatcattagcattttatctactattttgtctatttattctagtccatacctatacttattctattattatactattctacctactattttatctacttattttactttttagaaatttagattacactttgtcacactatcactgaaactatacaaatagccctcttagaaaattatggagtgatatatttagttcataatttcactgaattcaaagctcaatatatcagagatgacacaggtcattggttctgtttataagtaaaactttgtttctatttgttaagtaaaatctatcactcagatgaaggccaaaataggccaaattatctctcctattctatgtcatctcctctgctctcttttctcagtaccaaagcatgttaggaccatgtccaaggcattctctcctcatcttttctcagtgccaaatgcatttcttcaaacctcaggatgcagcataaaagcaacagatatatgaacaagagtagggggacccagagcttctcttcatgtcaccagataagaaaagaaaatgtcaaacagcacagccagccttctttccctactttttcttcagtcgctgtgacctgaagatgttagcagttacttgtcaaaatgacactgttcagggaagtgccgctgctttagaactacaatcgtttcatttatatcgtgtcttactctgattttataaattaatagagcaaccccaaatctcatcaaataaagtagtgggttttcactttgtgttttgggggttcacagtgattggaaactgatcattcttatgcttggaatattgacatcccccatggctatgaataaagtgcgttttacaattttaaataagtgcttttgcttgagttcctttttctcaaggttctgtcatcgagtgcatgtttctaacatgatgcctttcagcccacactctccttgggctgctttcctgtgcattctctaggattcctccttcattccactgcctgactcagacagatgctgtcagaacaatttacatccattttttctttccttccttctttccttccttccttccttccttccttccttccttcctttctttctttcttttctttctttctttctttcttttgcccagaaatgaccaaacacttaatgttcagcaaaaaatgtattttgactcagtagctaatttagcacatacccaggataatctgctcatttcctaacacactgtactacactttaaagaggtctggtagtacatgatggaaacaatgaggaataaagaggatttgatggtgatcttcaattctatattgctcatggacatgttgttgctttaagagaggaagtttctagaaacacacattagaaactttttttttccattttttattaggtatttaactcatttacatttccaatgctataccaaaagtcccccatatccacccacccccactcccctgcccacccactccccctttttggccctg
+[20180220 13:07:00] [info] service time (2.40517s, 0.416/s)
+[20180220 13:11:45] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180220 13:11:45] [info] dataprovider: processing param_id="PS4", seq_id=gtgttcccctgtactggggcatataaagtttgcaagtccaatgagcctctctttccagtgatggccgactaggccatcttttgatatatatgcagctagagtcaagagctccggggtactggttagttcataatgttgttccacctataaggccattgcatgaaagcaggatgacacgtcagagcagacctcaatcctgagatcatgtggatagtaccagtgatatttgaaggataaataaataaataaaggaatctcaactttgagtggaaaggaaagggaggaatgaagagagggtgaaagtgagggaggagttgaaggcaaatatgttcaaagtactttacatagaattctcaaaggaaaaaatactgtaaaaaataaaacaatgaatatttcaaacttatccttatttctgaagcttataatactccttttgatttctttgacaatataaatattgttctaactgtacatagaatatgagtacattctaccatatgcatgcagacacatagaaacacatgtacatggaaacatgtgtactaactcatgcctaccacattcatagagaaataaccagaaaagtagggggtgaagaagctttctaatttatgaattagccattctaaatgtagactatcctaccaagagactaaaagttgaaattgcctagagggtacattgaatttttctgtattaaagtaaatgggcactatttgtaagcccttcaatgtgtcttctgacgttgatgttatcatcctcctgtatattgctaacacattggtcactgagcaggttcaatcaatctaatccagagattgtgatatagatgaccttataatgactatgtactttgcactatgggtcacacctctgcctgctaaggcttaaattacaaatgggtcactacatccacccatccttttaccctcatacatgctgggcatgtgctttaactattcagcacatatcctgggcccaacttagataatcagaacagcccagttgcctacaatttgtaacactggaactattgcttttatgtgaaatataataattatattaaataaatatattatttaaatattattgtataaataattatattattattaataataataattttaaaagcaaaagtatttaggtaatatgaaaataggatgagaaacatgatgaccaaaatatcatttcataacctcagaatatatcatatttcttcttggcaacacacagaatgattcacaggaaatagaaaatgctgacatagctcactctaccatgttaagtggacatacagagcaagttctagaagattgtgacatttcacttatatatgtatatataatttaatactatgttatatatatacatatatacatatatacatatatacatatatacacatatacacatatacacatatacatatatacatatatacatatatacatatatacacatatacacatatacacatatacacatatacacatatacatacatacatacatacatacatacatatatatatacatatatacatacatacatacatacatacatacatacatatatacatatatacatacatacatacatacatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacgtatatgcatatatacgtatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatatatatatagatccacagtcaacatggaatgagatgtggaattatttggatgcagatcactttgttgatgccaaaagatcataagatttcactccaatgggatggaatcaacaggaagaaacaggaaggcaaaagagagaatatagaggaaacatgagagaaacactatttcataagcttaactaaaggaaagagctgctgttaggtaggcatgaagtcaaaagaagcaaaggatctggtactaccacataaactaaacttgcagtaatgaatgtaaagactacccacaagtagaagatgaaggcttctttagcattttggtgagaccaatgaacaccaccaacatcataatctaaaagagccatatgctcagatagtaagtggaaggactgggttcaattccttttactgaaagaaagaaaacagaaacaaaagcaggaacttaaccatagggggattacaggttttaaatgagggtcacatggtgaatctgaaaaacactttttctggattcattgaacaaaagtatccaaagtaacaaaaaaggataggcttaggagaaggacaagcaatctctgagtcacagggcagccacttatgttagcacacaggtgcagaatgtatgtatcttgcattctcattgacaactatggatgtctttttttttttttttgctacaacagaaaaatggagtgtttgcaacagataacaacaaagatctgaagttctttcaagctacttttcgtatttgcagacaagtaggaaaattaaagtaatagtagagaattgctacccaagtatttagaaactcacacagcagtgcatgcatgtaataaatgtatgataagtggtgagaaaaatcagcagaggttagggggatctgctcccacaagcacaacagaaaactgtatgattccagcccacgtagtaaacgaagtacttggaagtgggttgccataatgagcgtgggactgaacaatgctttccgtttacatagaaagaaattaaatgtaaggtctcaaaggatgaacctaactacaaatttcttaaatgttttctagaataaagttcagtaatgtttagatgaatcaaaagtagtcagtactgcaaaggttaaaatatgatttgaatagtgactgggttctgaatgtggtgagattttgcactcactgtgtggtactggggggttggcaaggggcaagccatgtaactctgtggtagataggaggccttgagctgttcctagcacaaacagaagggaggttggaagggccaggatggaaggcgatgttggaagaagtgtgaagagcccaatatggtattaaggggagaggcctctgggaagggtttaattttagaagacaaagtcatttgggtggagagattatgagtgagtactttgcttgatacattcactcactctgtggtattatgttattaccaaaggaaagcattctaacacaaatagctttggtggatttgagttacagcagtcattcttatcttgagacc
+[20180220 13:11:45] [info] service time (0.024019s, 41.634/s)
+[20180220 13:12:11] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180220 13:12:11] [info] dataprovider: processing param_id="PS4", seq_id=gtgttcccctgtactggggcatataaagtttgcaagtccaatgagcctctctttccagtgatggccgactaggccatcttttgatatatatgcagctagagtcaagagctccggggtactggttagttcataatgttgttccacctataaggccattgcatgaaagcaggatgacacgtcagagcagacctcaatcctgagatcatgtggatagtaccagtgatatttgaaggataaataaataaataaaggaatctcaactttgagtggaaaggaaagggaggaatgaagagagggtgaaagtgagggaggagttgaaggcaaatatgttcaaagtactttacatagaattctcaaaggaaaaaatactgtaaaaaataaaacaatgaatatttcaaacttatccttatttctgaagcttataatactccttttgatttctttgacaatataaatattgttctaactgtacatagaatatgagtacattctaccatatgcatgcagacacatagaaacacatgtacatggaaacatgtgtactaactcatgcctaccacattcatagagaaataaccagaaaagtagggggtgaagaagctttctaatttatgaattagccattctaaatgtagactatcctaccaagagactaaaagttgaaattgcctagagggtacattgaatttttctgtattaaagtaaatgggcactatttgtaagcccttcaatgtgtcttctgacgttgatgttatcatcctcctgtatattgctaacacattggtcactgagcaggttcaatcaatctaatccagagattgtgatatagatgaccttataatgactatgtactttgcactatgggtcacacctctgcctgctaaggcttaaattacaaatgggtcactacatccacccatccttttaccctcatacatgctgggcatgtgctttaactattcagcacatatcctgggcccaacttagataatcagaacagcccagttgcctacaatttgtaacactggaactattgcttttatgtgaaatataataattatattaaataaatatattatttaaatattattgtataaataattatattattattaataataataattttaaaagcaaaagtatttaggtaatatgaaaataggatgagaaacatgatgaccaaaatatcatttcataacctcagaatatatcatatttcttcttggcaacacacagaatgattcacaggaaatagaaaatgctgacatagctcactctaccatgttaagtggacatacagagcaagttctagaagattgtgacatttcacttatatatgtatatataatttaatactatgttatatatatacatatatacatatatacatatatacatatatacacatatacacatatacacatatacatatatacatatatacatatatacatatatacacatatacacatatacacatatacacatatacacatatacatacatacatacatacatacatacatatatatatacatatatacatacatacatacatacatacatacatacatatatacatatatacatacatacatacatacatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacgtatatgcatatatacgtatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatatatatatagatccacagtcaacatggaatgagatgtggaattatttggatgcagatcactttgttgatgccaaaagatcataagatttcactccaatgggatggaatcaacaggaagaaacaggaaggcaaaagagagaatatagaggaaacatgagagaaacactatttcataagcttaactaaaggaaagagctgctgttaggtaggcatgaagtcaaaagaagcaaaggatctggtactaccacataaactaaacttgcagtaatgaatgtaaagactacccacaagtagaagatgaaggcttctttagcattttggtgagaccaatgaacaccaccaacatcataatctaaaagagccatatgctcagatagtaagtggaaggactgggttcaattccttttactgaaagaaagaaaacagaaacaaaagcaggaacttaaccatagggggattacaggttttaaatgagggtcacatggtgaatctgaaaaacactttttctggattcattgaacaaaagtatccaaagtaacaaaaaaggataggcttaggagaaggacaagcaatctctgagtcacagggcagccacttatgttagcacacaggtgcagaatgtatgtatcttgcattctcattgacaactatggatgtctttttttttttttttgctacaacagaaaaatggagtgtttgcaacagataacaacaaagatctgaagttctttcaagctacttttcgtatttgcagacaagtaggaaaattaaagtaatagtagagaattgctacccaagtatttagaaactcacacagcagtgcatgcatgtaataaatgtatgataagtggtgagaaaaatcagcagaggttagggggatctgctcccacaagcacaacagaaaactgtatgattccagcccacgtagtaaacgaagtacttggaagtgggttgccataatgagcgtgggactgaacaatgctttccgtttacatagaaagaaattaaatgtaaggtctcaaaggatgaacctaactacaaatttcttaaatgttttctagaataaagttcagtaatgtttagatgaatcaaaagtagtcagtactgcaaaggttaaaatatgatttgaatagtgactgggttctgaatgtggtgagattttgcactcactgtgtggtactggggggttggcaaggggcaagccatgtaactctgtggtagataggaggccttgagctgttcctagcacaaacagaagggaggttggaagggccaggatggaaggcgatgttggaagaagtgtgaagagcccaatatggtattaaggggagaggcctctgggaagggtttaattttagaagacaaagtcatttgggtggagagattatgagtgagtactttgcttgatacattcactcactctgtggtattatgttattaccaaaggaaagcattctaacacaaatagctttggtggatttgagttacagcagtcattcttatcttgagacc
+[20180220 13:12:11] [info] service time (0.021023s, 47.567/s)
+[20180220 13:17:40] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180220 13:17:40] [info] dataprovider: processing param_id="PS4", seq_id=gtgttcccctgtactggggcatataaagtttgcaagtccaatgagcctctctttccagtgatggccgactaggccatcttttgatatatatgcagctagagtcaagagctccggggtactggttagttcataatgttgttccacctataaggccattgcatgaaagcaggatgacacgtcagagcagacctcaatcctgagatcatgtggatagtaccagtgatatttgaaggataaataaataaataaaggaatctcaactttgagtggaaaggaaagggaggaatgaagagagggtgaaagtgagggaggagttgaaggcaaatatgttcaaagtactttacatagaattctcaaaggaaaaaatactgtaaaaaataaaacaatgaatatttcaaacttatccttatttctgaagcttataatactccttttgatttctttgacaatataaatattgttctaactgtacatagaatatgagtacattctaccatatgcatgcagacacatagaaacacatgtacatggaaacatgtgtactaactcatgcctaccacattcatagagaaataaccagaaaagtagggggtgaagaagctttctaatttatgaattagccattctaaatgtagactatcctaccaagagactaaaagttgaaattgcctagagggtacattgaatttttctgtattaaagtaaatgggcactatttgtaagcccttcaatgtgtcttctgacgttgatgttatcatcctcctgtatattgctaacacattggtcactgagcaggttcaatcaatctaatccagagattgtgatatagatgaccttataatgactatgtactttgcactatgggtcacacctctgcctgctaaggcttaaattacaaatgggtcactacatccacccatccttttaccctcatacatgctgggcatgtgctttaactattcagcacatatcctgggcccaacttagataatcagaacagcccagttgcctacaatttgtaacactggaactattgcttttatgtgaaatataataattatattaaataaatatattatttaaatattattgtataaataattatattattattaataataataattttaaaagcaaaagtatttaggtaatatgaaaataggatgagaaacatgatgaccaaaatatcatttcataacctcagaatatatcatatttcttcttggcaacacacagaatgattcacaggaaatagaaaatgctgacatagctcactctaccatgttaagtggacatacagagcaagttctagaagattgtgacatttcacttatatatgtatatataatttaatactatgttatatatatacatatatacatatatacatatatacatatatacacatatacacatatacacatatacatatatacatatatacatatatacatatatacacatatacacatatacacatatacacatatacacatatacatacatacatacatacatacatacatatatatatacatatatacatacatacatacatacatacatacatacatatatacatatatacatacatacatacatacatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacgtatatgcatatatacgtatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatatatatatagatccacagtcaacatggaatgagatgtggaattatttggatgcagatcactttgttgatgccaaaagatcataagatttcactccaatgggatggaatcaacaggaagaaacaggaaggcaaaagagagaatatagaggaaacatgagagaaacactatttcataagcttaactaaaggaaagagctgctgttaggtaggcatgaagtcaaaagaagcaaaggatctggtactaccacataaactaaacttgcagtaatgaatgtaaagactacccacaagtagaagatgaaggcttctttagcattttggtgagaccaatgaacaccaccaacatcataatctaaaagagccatatgctcagatagtaagtggaaggactgggttcaattccttttactgaaagaaagaaaacagaaacaaaagcaggaacttaaccatagggggattacaggttttaaatgagggtcacatggtgaatctgaaaaacactttttctggattcattgaacaaaagtatccaaagtaacaaaaaaggataggcttaggagaaggacaagcaatctctgagtcacagggcagccacttatgttagcacacaggtgcagaatgtatgtatcttgcattctcattgacaactatggatgtctttttttttttttttgctacaacagaaaaatggagtgtttgcaacagataacaacaaagatctgaagttctttcaagctacttttcgtatttgcagacaagtaggaaaattaaagtaatagtagagaattgctacccaagtatttagaaactcacacagcagtgcatgcatgtaataaatgtatgataagtggtgagaaaaatcagcagaggttagggggatctgctcccacaagcacaacagaaaactgtatgattccagcccacgtagtaaacgaagtacttggaagtgggttgccataatgagcgtgggactgaacaatgctttccgtttacatagaaagaaattaaatgtaaggtctcaaaggatgaacctaactacaaatttcttaaatgttttctagaataaagttcagtaatgtttagatgaatcaaaagtagtcagtactgcaaaggttaaaatatgatttgaatagtgactgggttctgaatgtggtgagattttgcactcactgtgtggtactggggggttggcaaggggcaagccatgtaactctgtggtagataggaggccttgagctgttcctagcacaaacagaagggaggttggaagggccaggatggaaggcgatgttggaagaagtgtgaagagcccaatatggtattaaggggagaggcctctgggaagggtttaattttagaagacaaagtcatttgggtggagagattatgagtgagtactttgcttgatacattcactcactctgtggtattatgttattaccaaaggaaagcattctaacacaaatagctttggtggatttgagttacagcagtcattcttatcttgagacc
+[20180220 13:17:40] [info] service time (0.020556s, 48.648/s)
+[20180220 13:18:35] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180220 13:18:35] [info] dataprovider: processing param_id="PS4", seq_id=gtgttcccctgtactggggcatataaagtttgcaagtccaatgagcctctctttccagtgatggccgactaggccatcttttgatatatatgcagctagagtcaagagctccggggtactggttagttcataatgttgttccacctataaggccattgcatgaaagcaggatgacacgtcagagcagacctcaatcctgagatcatgtggatagtaccagtgatatttgaaggataaataaataaataaaggaatctcaactttgagtggaaaggaaagggaggaatgaagagagggtgaaagtgagggaggagttgaaggcaaatatgttcaaagtactttacatagaattctcaaaggaaaaaatactgtaaaaaataaaacaatgaatatttcaaacttatccttatttctgaagcttataatactccttttgatttctttgacaatataaatattgttctaactgtacatagaatatgagtacattctaccatatgcatgcagacacatagaaacacatgtacatggaaacatgtgtactaactcatgcctaccacattcatagagaaataaccagaaaagtagggggtgaagaagctttctaatttatgaattagccattctaaatgtagactatcctaccaagagactaaaagttgaaattgcctagagggtacattgaatttttctgtattaaagtaaatgggcactatttgtaagcccttcaatgtgtcttctgacgttgatgttatcatcctcctgtatattgctaacacattggtcactgagcaggttcaatcaatctaatccagagattgtgatatagatgaccttataatgactatgtactttgcactatgggtcacacctctgcctgctaaggcttaaattacaaatgggtcactacatccacccatccttttaccctcatacatgctgggcatgtgctttaactattcagcacatatcctgggcccaacttagataatcagaacagcccagttgcctacaatttgtaacactggaactattgcttttatgtgaaatataataattatattaaataaatatattatttaaatattattgtataaataattatattattattaataataataattttaaaagcaaaagtatttaggtaatatgaaaataggatgagaaacatgatgaccaaaatatcatttcataacctcagaatatatcatatttcttcttggcaacacacagaatgattcacaggaaatagaaaatgctgacatagctcactctaccatgttaagtggacatacagagcaagttctagaagattgtgacatttcacttatatatgtatatataatttaatactatgttatatatatacatatatacatatatacatatatacatatatacacatatacacatatacacatatacatatatacatatatacatatatacatatatacacatatacacatatacacatatacacatatacacatatacatacatacatacatacatacatacatatatatatacatatatacatacatacatacatacatacatacatacatatatacatatatacatacatacatacatacatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacgtatatgcatatatacgtatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatatatatatagatccacagtcaacatggaatgagatgtggaattatttggatgcagatcactttgttgatgccaaaagatcataagatttcactccaatgggatggaatcaacaggaagaaacaggaaggcaaaagagagaatatagaggaaacatgagagaaacactatttcataagcttaactaaaggaaagagctgctgttaggtaggcatgaagtcaaaagaagcaaaggatctggtactaccacataaactaaacttgcagtaatgaatgtaaagactacccacaagtagaagatgaaggcttctttagcattttggtgagaccaatgaacaccaccaacatcataatctaaaagagccatatgctcagatagtaagtggaaggactgggttcaattccttttactgaaagaaagaaaacagaaacaaaagcaggaacttaaccatagggggattacaggttttaaatgagggtcacatggtgaatctgaaaaacactttttctggattcattgaacaaaagtatccaaagtaacaaaaaaggataggcttaggagaaggacaagcaatctctgagtcacagggcagccacttatgttagcacacaggtgcagaatgtatgtatcttgcattctcattgacaactatggatgtctttttttttttttttgctacaacagaaaaatggagtgtttgcaacagataacaacaaagatctgaagttctttcaagctacttttcgtatttgcagacaagtaggaaaattaaagtaatagtagagaattgctacccaagtatttagaaactcacacagcagtgcatgcatgtaataaatgtatgataagtggtgagaaaaatcagcagaggttagggggatctgctcccacaagcacaacagaaaactgtatgattccagcccacgtagtaaacgaagtacttggaagtgggttgccataatgagcgtgggactgaacaatgctttccgtttacatagaaagaaattaaatgtaaggtctcaaaggatgaacctaactacaaatttcttaaatgttttctagaataaagttcagtaatgtttagatgaatcaaaagtagtcagtactgcaaaggttaaaatatgatttgaatagtgactgggttctgaatgtggtgagattttgcactcactgtgtggtactggggggttggcaaggggcaagccatgtaactctgtggtagataggaggccttgagctgttcctagcacaaacagaagggaggttggaagggccaggatggaaggcgatgttggaagaagtgtgaagagcccaatatggtattaaggggagaggcctctgggaagggtttaattttagaagacaaagtcatttgggtggagagattatgagtgagtactttgcttgatacattcactcactctgtggtattatgttattaccaaaggaaagcattctaacacaaatagctttggtggatttgagttacagcagtcattcttatcttgagacc
+[20180220 13:18:35] [info] service time (0.016946s, 59.011/s)
+[20180220 13:19:01] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180220 13:19:01] [info] dataprovider: processing param_id="PS4", seq_id=gtgttcccctgtactggggcatataaagtttgcaagtccaatgagcctctctttccagtgatggccgactaggccatcttttgatatatatgcagctagagtcaagagctccggggtactggttagttcataatgttgttccacctataaggccattgcatgaaagcaggatgacacgtcagagcagacctcaatcctgagatcatgtggatagtaccagtgatatttgaaggataaataaataaataaaggaatctcaactttgagtggaaaggaaagggaggaatgaagagagggtgaaagtgagggaggagttgaaggcaaatatgttcaaagtactttacatagaattctcaaaggaaaaaatactgtaaaaaataaaacaatgaatatttcaaacttatccttatttctgaagcttataatactccttttgatttctttgacaatataaatattgttctaactgtacatagaatatgagtacattctaccatatgcatgcagacacatagaaacacatgtacatggaaacatgtgtactaactcatgcctaccacattcatagagaaataaccagaaaagtagggggtgaagaagctttctaatttatgaattagccattctaaatgtagactatcctaccaagagactaaaagttgaaattgcctagagggtacattgaatttttctgtattaaagtaaatgggcactatttgtaagcccttcaatgtgtcttctgacgttgatgttatcatcctcctgtatattgctaacacattggtcactgagcaggttcaatcaatctaatccagagattgtgatatagatgaccttataatgactatgtactttgcactatgggtcacacctctgcctgctaaggcttaaattacaaatgggtcactacatccacccatccttttaccctcatacatgctgggcatgtgctttaactattcagcacatatcctgggcccaacttagataatcagaacagcccagttgcctacaatttgtaacactggaactattgcttttatgtgaaatataataattatattaaataaatatattatttaaatattattgtataaataattatattattattaataataataattttaaaagcaaaagtatttaggtaatatgaaaataggatgagaaacatgatgaccaaaatatcatttcataacctcagaatatatcatatttcttcttggcaacacacagaatgattcacaggaaatagaaaatgctgacatagctcactctaccatgttaagtggacatacagagcaagttctagaagattgtgacatttcacttatatatgtatatataatttaatactatgttatatatatacatatatacatatatacatatatacatatatacacatatacacatatacacatatacatatatacatatatacatatatacatatatacacatatacacatatacacatatacacatatacacatatacatacatacatacatacatacatacatatatatatacatatatacatacatacatacatacatacatacatacatatatacatatatacatacatacatacatacatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacgtatatgcatatatacgtatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatatatatatagatccacagtcaacatggaatgagatgtggaattatttggatgcagatcactttgttgatgccaaaagatcataagatttcactccaatgggatggaatcaacaggaagaaacaggaaggcaaaagagagaatatagaggaaacatgagagaaacactatttcataagcttaactaaaggaaagagctgctgttaggtaggcatgaagtcaaaagaagcaaaggatctggtactaccacataaactaaacttgcagtaatgaatgtaaagactacccacaagtagaagatgaaggcttctttagcattttggtgagaccaatgaacaccaccaacatcataatctaaaagagccatatgctcagatagtaagtggaaggactgggttcaattccttttactgaaagaaagaaaacagaaacaaaagcaggaacttaaccatagggggattacaggttttaaatgagggtcacatggtgaatctgaaaaacactttttctggattcattgaacaaaagtatccaaagtaacaaaaaaggataggcttaggagaaggacaagcaatctctgagtcacagggcagccacttatgttagcacacaggtgcagaatgtatgtatcttgcattctcattgacaactatggatgtctttttttttttttttgctacaacagaaaaatggagtgtttgcaacagataacaacaaagatctgaagttctttcaagctacttttcgtatttgcagacaagtaggaaaattaaagtaatagtagagaattgctacccaagtatttagaaactcacacagcagtgcatgcatgtaataaatgtatgataagtggtgagaaaaatcagcagaggttagggggatctgctcccacaagcacaacagaaaactgtatgattccagcccacgtagtaaacgaagtacttggaagtgggttgccataatgagcgtgggactgaacaatgctttccgtttacatagaaagaaattaaatgtaaggtctcaaaggatgaacctaactacaaatttcttaaatgttttctagaataaagttcagtaatgtttagatgaatcaaaagtagtcagtactgcaaaggttaaaatatgatttgaatagtgactgggttctgaatgtggtgagattttgcactcactgtgtggtactggggggttggcaaggggcaagccatgtaactctgtggtagataggaggccttgagctgttcctagcacaaacagaagggaggttggaagggccaggatggaaggcgatgttggaagaagtgtgaagagcccaatatggtattaaggggagaggcctctgggaagggtttaattttagaagacaaagtcatttgggtggagagattatgagtgagtactttgcttgatacattcactcactctgtggtattatgttattaccaaaggaaagcattctaacacaaatagctttggtggatttgagttacagcagtcattcttatcttgagacc
+[20180220 13:19:01] [info] service time (0.0251440000000001s, 39.771/s)
+[20180220 13:19:31] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180220 13:19:31] [info] dataprovider: processing param_id="PS4", seq_id=gtgttcccctgtactggggcatataaagtttgcaagtccaatgagcctctctttccagtgatggccgactaggccatcttttgatatatatgcagctaga
+[20180220 13:19:31] [info] service time (0.126032s, 7.934/s)
+[20180220 13:20:12] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180220 13:20:12] [info] dataprovider: processing param_id="PS4", seq_id=gtgttcccctgtactggggcatataaagtttgcaagtccaatgagcctctctttccagtgatggccgactaggccatcttttgatatatatgcagctagagtcaagagctccggggtactggttagttcataatgttgttccacctataaggccattgcatgaaagcaggatgacacgtcagagcagacctcaatcctgagatcatgtggatagtaccagtgatatttgaaggataaataaataaataaaggaatctcaactttgagtggaaaggaaagggaggaatgaagagagggtgaaagtgagggaggagttgaaggcaaatatgttcaaagtactttacatagaattctcaaaggaaaaaatactgtaaaaaataaaacaatgaatatttcaaacttatccttatttctgaagcttataatactccttttgatttctttgacaatataaatattgttctaactgtacatagaatatgagtacattctaccatatgcatgcagacacatagaaacacatgtacatggaaacatgtgtactaactcatgcctaccacattcatagagaaataaccagaaaagtagggggtgaagaagctttctaatttatgaattagccattctaaatgtagactatcctaccaagagactaaaagttgaaattgcctagagggtacattgaatttttctgtattaaagtaaatgggcactatttgtaagcccttcaatgtgtcttctgacgttgatgttatcatcctcctgtatattgctaacacattggtcactgagcaggttcaatcaatctaatccagagattgtgatatagatgaccttataatgactatgtactttgcactatgggtcacacctctgcctgctaaggcttaaattacaaatgggtcactacatccacccatccttttaccctcatacatgctgggcatgtgctttaactattcagcacatatcctgggcccaacttagataatcagaacagcccagttgcctacaatttgtaacactggaactattgcttttatgtgaaatataataattatattaaataaatatattatttaaatattattgtataaataattatattattattaataataataattttaaaagcaaaagtatttaggtaatatgaaaataggatgagaaacatgatgaccaaaatatcatttcataacctcagaatatatcatatttcttcttggcaacacacagaatgattcacaggaaatagaaaatgctgacatagctcactctaccatgttaagtggacatacagagcaagttctagaagattgtgacatttcacttatatatgtatatataatttaatactatgttatatatatacatatatacatatatacatatatacatatatacacatatacacatatacacatatacatatatacatatatacatatatacatatatacacatatacacatatacacatatacacatatacacatatacatacatacatacatacatacatacatatatatatacatatatacatacatacatacatacatacatacatacatatatacatatatacatacatacatacatacatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacgtatatgcatatatacgtatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatatatatatagatcc
+[20180220 13:20:15] [info] service time (2.315562s, 0.432/s)
+[20180220 13:22:31] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180220 13:22:31] [info] dataprovider: processing param_id="PS4", seq_id=catatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatatatatatagatccacagtcaacatggaatgagatgtggaattatttggatgcagatcactttgttgatgccaaaagatcataagatttcactccaatgggatggaatcaacaggaagaaacaggaaggcaaaagagagaatatagaggaaacatgagagaaacactatttcataagcttaactaaaggaaagagctgctgttaggtaggcatgaagtcaaaagaagcaaaggatctggtactaccacataaactaaacttgcagtaatgaatgtaaagactacccacaagtagaagatgaaggcttctttagcattttggtgagaccaatgaacaccaccaacatcataatctaaaagagccatatgctcagatagtaagtggaaggactgggttcaattccttttactgaaagaaagaaaacagaaacaaaagcaggaacttaaccatagggggattacaggttttaaatgagggtcacatggtgaatctgaaaaacactttttctggattcattgaacaaaagtatccaaagtaacaaaaaaggataggcttaggagaaggacaagcaatctctgagtcacagggcagccacttatgttagcacacaggtgcagaatgtatgtatcttgcattctcattgacaactatggatgtctttttttttttttttgctacaacagaaaaatggagtgtttgcaacagataacaacaaagatctgaagttctttcaagctacttttcgtatttgcagacaagtaggaaaattaaagtaatagtagagaattgctacccaagtatttagaaactcacacagcagtgcatgcatgtaataaatgtatgataagtggtgagaaaaatcagcagaggttagggggatctgctcccacaagcacaacagaaaactgtatgattccagcccacgtagtaaacgaagtacttggaagtgggttgccataatgagcgtgggactgaacaatgctttccgtttacatagaaagaaattaaatgtaaggtctcaaaggatgaacctaactacaaatttcttaaatgttttctagaataaagttcagtaatgtttagatgaatcaaaagtagtcagtactgcaaaggttaaaatatgatttgaatagtgactgggttctgaatgtggtgagattttgcactcactgtgtggtactggggggttggcaaggggcaagccatgtaactctgtggtagataggaggccttgagctgttcctagcacaaacagaagggaggttggaagggccaggatggaaggcgatgttggaagaagtgtgaagagcccaatatggtattaaggggagaggcctctgggaagggtttaattttagaagacaaagtcatttgggtggagagattatgagtgagtactttgcttgatacattcactcactctgtggtattatgttattaccaaaggaaagcattctaacacaaatagctttggtggatttgagttacagcagtcattcttatcttgagacc
+[20180220 13:22:33] [info] service time (1.556292s, 0.643/s)
+[20180220 13:24:29] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180220 13:24:29] [info] dataprovider: processing param_id="PS4", seq_id=gtgttcccctgtactggggcatataaagtttgcaagtccaatgagcctctctttccagtgatggccgactaggccatcttttgatatatatgcagctagagtcaagagctccggggtactggttagttcataatgttgttccacctataaggccattgcatgaaagcaggatgacacgtcagagcagacctcaatcctgagatcatgtggatagtaccagtgatatttgaaggataaataaataaataaaggaatctcaactttgagtggaaaggaaagggaggaatgaagagagggtgaaagtgagggaggagttgaaggcaaatatgttcaaagtactttacatagaattctcaaaggaaaaaatactgtaaaaaataaaacaatgaatatttcaaacttatccttatttctgaagcttataatactccttttgatttctttgacaatataaatattgttctaactgtacatagaatatgagtacattctaccatatgcatgcagacacatagaaacacatgtacatggaaacatgtgtactaactcatgcctaccacattcatagagaaataaccagaaaagtagggggtgaagaagctttctaatttatgaattagccattctaaatgtagactatcctaccaagagactaaaagttgaaattgcctagagggtacattgaatttttctgtattaaagtaaatgggcactatttgtaagcccttcaatgtgtcttctgacgttgatgttatcatcctcctgtatattgctaacacattggtcactgagcaggttcaatcaatctaatccagagattgtgatatagatgaccttataatgactatgtactttgcactatgggtcacacctctgcctgctaaggcttaaattacaaatgggtcactacatccacccatccttttaccctcatacatgctgggcatgtgctttaactattcagcacatatcctgggcccaacttagataatcagaacagcccagttgcctacaatttgtaacactggaactattgcttttatgtgaaatataataattatattaaataaatatattatttaaatattattgtataaataattatattattattaataataataattttaaaagcaaaagtatttaggtaatatgaaaataggatgagaaacatgatgaccaaaatatcatttcataacctcagaatatatcatatttcttcttggcaacacacagaatgattcacaggaaatagaaaatgctgacatagctcactctaccatgttaagtggacatacagagcaagttctagaagattgtgacatttcacttatatatgtatatataatttaatactatgttatatatatacatatatacatatatacatatatacatatatacacatatacacatatacacatatacatatatacatatatacatatatacatatatacacatatacacatatacacatatacacatatacacatatacatacatacatacatacatacatacatatatatatacatatatacatacatacatacatacatacatacatacatatatacatatatacatacatacatacatacatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacgtatatgcatatatacgtatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatatatatatagatccacagtcaacatggaatgagatgtggaattatttggatgcagatcactttgttgatgccaaaagatcataagatttcactccaatgggatggaatcaacaggaagaaacaggaaggcaaaagagagaatatagaggaaacatgagagaaacactatttcataagcttaactaaaggaaagagctgctgttaggtaggcatgaagtcaaaagaagcaaaggatctggtactaccacataaactaaacttgcagtaatgaatgtaaagactacccacaagtagaagatgaaggcttctttagcattttggtgagaccaatgaacaccaccaacatcataatctaaaagagccatatgctcagatagtaagtggaaggactgggttcaattccttttactgaaagaaagaaaacagaaacaaaagcaggaacttaaccatagggggattacaggttttaaatgagggtcacatggtgaatctgaaaaacactttttctggattcattgaacaaaagtatccaaagtaacaaaaaaggataggcttaggagaaggacaagcaatctctgagtcacagggcagccacttatgttagcacacaggtgcagaatgtatgtatcttgcattctcattgacaactatggatgtctttttttttttttttgctacaacagaaaaatggagtgtttgcaacagataacaacaaagatctgaagttctttcaagctacttttcgtatttgcagacaagtaggaaaattaaagtaatagtagagaattgctacccaagtatttagaaactcacacagcagtgcatgcatgtaataaatgtatgataagtggtgagaaaaatcagcagaggttagggggatctgctcccacaagcacaacagaaaactgtatgattccagcccacgtagtaaacgaagtacttggaagtgggttgccataatgagcgtgggactgaacaatgctttccgtttacatagaaagaaattaaatgtaaggtctcaaaggatgaacctaactacaaatttcttaaatgttttctagaataaagttcagtaatgtttagatgaatcaaaagtagtcagtactgcaaaggttaaaatatgatttgaatagtgactgggttctgaatgtggtgagattttgcactcactgtgtggtactggggggttggcaaggggcaagccatgtaactctgtggtagataggaggccttgagctgttcctagcacaaacagaagggaggttggaagggccaggatggaaggcgatgttggaagaagtgtgaagagcccaatatggtattaaggggagaggcctctgggaagggtttaattttagaagacaaagtcatttgggtggagagattatgagtgagtactttgcttgatacattcactcactctgtggtattatgttattaccaaaggaaagcattctaacacaaatagctttggtggatttgagttacagcagtcattcttatcttgagacc
+[20180220 13:24:29] [info] service time (0.019386s, 51.584/s)
+[20180220 13:51:54] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180220 13:51:54] [info] dataprovider: processing param_id="PS4", seq_id=tatacacatatacacatatacacatatacatacatacatacatacatacatacatatatatatacatatatacatacatacatacatacatacatacatacatatatacatatatacatacatacatacatacatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacgtatatgcatatatacgtatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatatatatata
+[20180220 13:51:54] [info] service time (0.280202s, 3.569/s)
+[20180220 16:28:30] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180220 16:28:30] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180220 16:28:30] [info] dataprovider: processing param_id="PS4", seq_id=at
+[20180220 16:28:30] [info] dataprovider: processing param_id="PS4", seq_id=at
+[20180220 16:28:30] [info] service time (0.055801s, 17.921/s)
+[20180220 16:28:30] [info] service time (0.06134s, 16.303/s)
+[20180220 16:28:33] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180220 16:28:33] [info] dataprovider: processing param_id="PS4", seq_id=at
+[20180220 16:28:33] [info] service time (0.057456s, 17.405/s)
+[20180220 16:28:36] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180220 16:28:36] [info] dataprovider: processing param_id="PS4", seq_id=at
+[20180220 16:28:36] [info] service time (0.05051s, 19.798/s)
+[20180220 16:28:48] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180220 16:28:48] [info] dataprovider: processing param_id="PS4", seq_id=AT
+[20180220 16:28:48] [info] service time (0.044427s, 22.509/s)
+[20180220 16:29:22] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180220 16:29:22] [info] dataprovider: processing param_id="PS4", seq_id=AA
+[20180220 16:29:23] [info] service time (0.046913s, 21.316/s)
+[20180220 16:30:08] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180220 16:30:08] [info] dataprovider: processing param_id="PS4", seq_id=atatggggg
+[20180220 16:30:08] [info] service time (0.06844s, 14.611/s)
+[20180220 17:36:56] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180220 17:36:56] [info] dataprovider: processing param_id="PS4", seq_id=tatatacatatatacatatatacatatatacatatatacacatatacacatatacacatatacatatatacatatatacatatatacatatatacacatataca
+[20180220 17:36:56] [info] service time (0.090947s, 10.995/s)
+[20180220 21:06:49] [info] Manager 79683 stopped
+[20180220 21:06:52] [info] Listening at "http://*:3457"
+[20180220 21:06:52] [info] Manager 86400 started
+[20180220 21:06:52] [info] Creating process id file "/home/debruin/cgdna_web/script/hypnotoad.pid"
+[20180221 02:24:17] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180221 02:24:17] [info] dataprovider: processing param_id=PS4, seq_id=(Tatataca)_10
+[20180221 02:24:17] [info] service time (0.091513s, 10.927/s)
+[20180221 07:36:17] [info] if_loggedin: granting access to /view1 to generic user at 128.178.109.243
+[20180221 19:36:23] [info] if_loggedin: granting access to /view1 to generic user at 128.178.109.243
+[20180222 13:38:46] [info] if_loggedin: granting access to /view1 to generic user at 128.178.109.243
+[20180222 14:25:05] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180222 14:25:05] [info] dataprovider: processing param_id=PS4, seq_id=A_8
+[20180222 14:25:05] [info] service time (0.061428s, 16.279/s)
+[20180222 22:59:47] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180222 22:59:47] [info] dataprovider: processing param_id="PS4", seq_id=((A)_5 (G)_5)_10
+[20180222 22:59:47] [info] service time (0.090601s, 11.037/s)
+[20180222 23:00:05] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180222 23:00:05] [info] dataprovider: processing param_id="PS4", seq_id=A_100
+[20180222 23:00:05] [info] service time (0.091465s, 10.933/s)
+[20180223 10:17:45] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180223 10:17:45] [info] dataprovider: processing param_id=PS4, seq_id=AAA
+[20180223 10:17:45] [info] service time (0.077104s, 12.969/s)
+[20180223 10:18:43] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180223 10:18:43] [info] dataprovider: processing param_id=PS4, seq_id=GGG
+[20180223 10:18:43] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180223 10:18:43] [info] dataprovider: processing param_id=PS4, seq_id=GGG
+[20180223 10:18:43] [info] service time (0.062988s, 15.876/s)
+[20180223 10:18:43] [info] service time (0.05991s, 16.692/s)
+[20180223 12:44:03] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180223 12:44:03] [info] dataprovider: processing param_id="PS4", seq_id=GCGGAAAATGTCAGAAGTCCATTTCTGTCAAACCCCCCAAAAATCCAGTACGACCGAAAGGAAAGCGGCGGAATACACTGAAAACACCATAAACACACCCCACCAAACCCAGAAGCGACCAAGGCAGGAAAGCAACCCCCAAAGTACAAACCAGCGACTCAGACCCCAAATCACCTAGGAAAACCCCTGTCCAGCACTCCCGGAGGCAAACCCCGTCCCCGAAATCGGGCTAGACCAAACCACCCGCCAAACCCCCTGCCAGGAGGCCTAAAATTCCAACCGAAAATCGCGGTTACTTTTTTGGAGCCCGAAAACCACCCAAAATCAAGGAAAAATGGAAAAAATGCCAAAAAATAGCGAAAATACCCCGAAAATTGGCAAAAATTACAAAAAATAGCGAATTTCCCTGAATTTTAGGCGAAAAAACCCCCGAAAAGGCCAAAAACGCACTGAAAATCAAAATCTGAACGTCTACGCCTCTGCTAGAGTCTGTCTACCACCCGGGTCGGTTAAATATGTCGGCCGTATTAAATCACATGACAAAATCATGCGATGAGGTTAGGAAAGGGAAAGACAATGTCTTTCCGCGATCACCATCCTATATCTGTTGCTTGACCCCCTCTGTCTC
+[20180223 12:44:03] [info] service time (0.43121s, 2.319/s)
+[20180223 12:45:13] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180223 12:45:13] [info] dataprovider: processing param_id="PS3", seq_id=GCGGAAAATGTCAGAAGTCCATTTCTGTCAAACCCCCCAAAAATCCAGTACGACCGAAAGGAAAGCGGCGGAATACACTGAAAACACCATAAACACACCCCACCAAACCCAGAAGCGACCAAGGCAGGAAAGCAACCCCCAAAGTACAAACCAGCGACTCAGACCCCAAATCACCTAGGAAAACCCCTGTCCAGCACTCCCGGAGGCAAACCCCGTCCCCGAAATCGGGCTAGACCAAACCACCCGCCAAACCCCCTGCCAGGAGGCCTAAAATTCCAACCGAAAATCGCGGTTACTTTTTTGGAGCCCGAAAACCACCCAAAATCAAGGAAAAATGGAAAAAATGCCAAAAAATAGCGAAAATACCCCGAAAATTGGCAAAAATTACAAAAAATAGCGAATTTCCCTGAATTTTAGGCGAAAAAACCCCCGAAAAGGCCAAAAACGCACTGAAAATCAAAATCTGAACGTCTACGCCTCTGCTAGAGTCTGTCTACCACCCGGGTCGGTTAAATATGTCGGCCGTATTAAATCACATGACAAAATCATGCGATGAGGTTAGGAAAGGGAAAGACAATGTCTTTCCGCGATCACCATCCTATATCTGTTGCTTGACCCCCTCTGTCTC
+[20180223 12:45:13] [info] service time (0.401477s, 2.491/s)
+[20180223 12:46:05] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180223 12:46:05] [info] dataprovider: processing param_id="PS2", seq_id=GCGGAAAATGTCAGAAGTCCATTTCTGTCAAACCCCCCAAAAATCCAGTACGACCGAAAGGAAAGCGGCGGAATACACTGAAAACACCATAAACACACCCCACCAAACCCAGAAGCGACCAAGGCAGGAAAGCAACCCCCAAAGTACAAACCAGCGACTCAGACCCCAAATCACCTAGGAAAACCCCTGTCCAGCACTCCCGGAGGCAAACCCCGTCCCCGAAATCGGGCTAGACCAAACCACCCGCCAAACCCCCTGCCAGGAGGCCTAAAATTCCAACCGAAAATCGCGGTTACTTTTTTGGAGCCCGAAAACCACCCAAAATCAAGGAAAAATGGAAAAAATGCCAAAAAATAGCGAAAATACCCCGAAAATTGGCAAAAATTACAAAAAATAGCGAATTTCCCTGAATTTTAGGCGAAAAAACCCCCGAAAAGGCCAAAAACGCACTGAAAATCAAAATCTGAACGTCTACGCCTCTGCTAGAGTCTGTCTACCACCCGGGTCGGTTAAATATGTCGGCCGTATTAAATCACATGACAAAATCATGCGATGAGGTTAGGAAAGGGAAAGACAATGTCTTTCCGCGATCACCATCCTATATCTGTTGCTTGACCCCCTCTGTCTC
+[20180223 12:46:05] [info] service time (0.370639s, 2.698/s)
+[20180223 13:39:07] [info] if_loggedin: granting access to /view1 to generic user at 128.178.109.243
+[20180223 14:59:37] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180223 14:59:37] [info] dataprovider: processing param_id="PS4", seq_id=ACGATAGCTACGACTAGCACTAGC
+[20180223 14:59:37] [info] service time (0.078239s, 12.781/s)
+[20180223 14:59:50] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180223 14:59:50] [info] dataprovider: processing param_id="PS4", seq_id=ACGATAGCTATGACTAGCACTAGC
+[20180223 14:59:50] [info] service time (0.076588s, 13.057/s)
+[20180223 14:59:52] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180223 14:59:52] [info] dataprovider: processing param_id="PS4", seq_id=ACGATAGCTATGACTAGCACTAGC
+[20180223 14:59:52] [info] service time (0.076255s, 13.114/s)
+[20180223 15:00:31] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180223 15:00:31] [info] dataprovider: processing param_id="PS4", seq_id=A_5 T A_5
+[20180223 15:00:31] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180223 15:00:31] [info] dataprovider: processing param_id="PS4", seq_id=A_5 T A_5
+[20180223 15:00:31] [info] service time (0.052618s, 19.005/s)
+[20180223 15:00:31] [info] service time (0.05622s, 17.787/s)
+[20180223 15:00:42] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180223 15:00:42] [info] dataprovider: processing param_id="PS4", seq_id=A_5 G A_5
+[20180223 15:00:42] [info] service time (0.055534s, 18.007/s)
+[20180223 15:00:53] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180223 15:00:53] [info] dataprovider: processing param_id="PS4", seq_id=A_20 G A_20
+[20180223 15:00:53] [info] service time (0.066437s, 15.052/s)
+[20180223 15:01:13] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180223 15:01:13] [info] dataprovider: processing param_id="PS4", seq_id=A_20 T A_20
+[20180223 15:01:13] [info] service time (0.089854s, 11.129/s)
+[20180223 15:01:26] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180223 15:01:26] [info] dataprovider: processing param_id="PS4", seq_id=A_20 A A_20
+[20180223 15:01:26] [info] service time (0.082744s, 12.085/s)
+[20180223 15:03:09] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180223 15:03:09] [info] dataprovider: processing param_id="PS4", seq_id=(AT)_20 A (AT)_20
+[20180223 15:03:09] [info] service time (0.120626s, 8.290/s)
+[20180223 15:03:23] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180223 15:03:23] [info] dataprovider: processing param_id="PS4", seq_id=(AT)_20 G (AT)_20
+[20180223 15:03:23] [info] service time (0.114889s, 8.704/s)
+[20180223 15:07:19] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180223 15:07:19] [info] dataprovider: processing param_id="PS4", seq_id=A_200
+[20180223 15:07:19] [info] service time (0.171185s, 5.842/s)
+[20180223 15:08:03] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180223 15:08:03] [info] dataprovider: processing param_id="PS4", seq_id=acgactagcatagcactagctacgactagcatagcactagctacgactagcatagcactagctacgactagcatagcactagctacgactagcatagcactagctacgactagcatagcactagctacgactagcatagcactagct
+[20180223 15:08:03] [info] service time (0.11559s, 8.651/s)
+[20180223 15:43:48] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180223 15:43:48] [info] dataprovider: processing param_id="PS4", seq_id=TACTACTACTACTACTACTACATCATC
+[20180223 15:43:48] [info] service time (0.076146s, 13.133/s)
+[20180224 13:42:28] [info] if_loggedin: granting access to /view1 to generic user at 128.178.109.243
+[20180224 23:24:04] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:24:04] [info] dataprovider: processing param_id="PS4", seq_id=A_9 A[A]A_8
+[20180224 23:24:04] [info] service time (0.060226s, 16.604/s)
+[20180224 23:24:34] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:24:34] [info] dataprovider: processing param_id="PS4", seq_id=A_9A[A]A_8
+[20180224 23:24:34] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:24:34] [info] dataprovider: processing param_id="PS4", seq_id=A_9A[A]A_8
+[20180224 23:24:34] [info] service time (0.069558s, 14.376/s)
+[20180224 23:24:34] [info] service time (0.061469s, 16.268/s)
+[20180224 23:24:36] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:24:36] [info] dataprovider: processing param_id="PS4", seq_id=A_9A[A]A_8
+[20180224 23:24:36] [info] service time (0.070213s, 14.242/s)
+[20180224 23:24:52] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:24:52] [info] dataprovider: processing param_id="PS4", seq_id=A_9A[A]A_8
+[20180224 23:24:52] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:24:52] [info] dataprovider: processing param_id="PS4", seq_id=A_9A[A]A_8
+[20180224 23:24:52] [info] service time (0.084427s, 11.845/s)
+[20180224 23:24:52] [info] service time (0.084962s, 11.770/s)
+[20180224 23:25:03] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:25:03] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:25:03] [info] dataprovider: processing param_id="PS4", seq_id=A_9A [A] A_8
+[20180224 23:25:03] [info] dataprovider: processing param_id="PS4", seq_id=A_9A [A] A_8
+[20180224 23:25:03] [info] service time (0.103268s, 9.684/s)
+[20180224 23:25:03] [info] service time (0.106853s, 9.359/s)
+[20180224 23:25:04] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:25:04] [info] dataprovider: processing param_id="PS4", seq_id=A_9A [A] A_8
+[20180224 23:25:04] [info] service time (0.078132s, 12.799/s)
+[20180224 23:26:06] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:26:06] [info] dataprovider: processing param_id="PS1", seq_id=A_9[A]A_8
+[20180224 23:26:06] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:26:06] [info] dataprovider: processing param_id="PS1", seq_id=A_9[A]A_8
+[20180224 23:26:06] [info] service time (0.047834s, 20.906/s)
+[20180224 23:26:06] [info] service time (0.058641s, 17.053/s)
+[20180224 23:27:17] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:27:17] [info] dataprovider: processing param_id="PS1", seq_id=A_9A[A]A_8
+[20180224 23:27:17] [info] service time (0.046032s, 21.724/s)
+[20180224 23:27:25] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:27:25] [info] dataprovider: processing param_id="PS1", seq_id=A9A[A]A8
+[20180224 23:27:25] [info] service time (0.017503s, 57.133/s)
+[20180224 23:27:25] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:27:25] [info] dataprovider: processing param_id="PS1", seq_id=A9A[A]A8
+[20180224 23:27:25] [info] service time (0.016213s, 61.679/s)
+[20180224 23:27:26] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:27:26] [info] dataprovider: processing param_id="PS1", seq_id=A9A[A]A8
+[20180224 23:27:26] [info] service time (0.016517s, 60.544/s)
+[20180224 23:28:56] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:28:56] [info] dataprovider: processing param_id="PS4", seq_id=A-9
+[20180224 23:28:56] [info] service time (0.018752s, 53.328/s)
+[20180224 23:29:06] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:29:06] [info] dataprovider: processing param_id="PS4", seq_id=A_9
+[20180224 23:29:06] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:29:06] [info] dataprovider: processing param_id="PS4", seq_id=A_9
+[20180224 23:29:06] [info] service time (0.04955s, 20.182/s)
+[20180224 23:29:06] [info] service time (0.056894s, 17.577/s)
+[20180224 23:29:08] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:29:08] [info] dataprovider: processing param_id="PS4", seq_id=A_9
+[20180224 23:29:08] [info] service time (0.070191s, 14.247/s)
+[20180224 23:29:11] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:29:11] [info] dataprovider: processing param_id="PS4", seq_id=AA
+[20180224 23:29:11] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:29:11] [info] dataprovider: processing param_id="PS4", seq_id=AA
+[20180224 23:29:11] [info] service time (0.063011s, 15.870/s)
+[20180224 23:29:11] [info] service time (0.069769s, 14.333/s)
+[20180224 23:29:13] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:29:13] [info] dataprovider: processing param_id="PS4", seq_id=AA
+[20180224 23:29:13] [info] service time (0.051898s, 19.269/s)
+[20180224 23:29:19] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:29:19] [info] dataprovider: processing param_id="PS4", seq_id=AATCG
+[20180224 23:29:19] [info] service time (0.04791s, 20.872/s)
+[20180224 23:29:42] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:29:42] [info] dataprovider: processing param_id="PS4", seq_id=AATG
+[20180224 23:29:42] [info] service time (0.049048s, 20.388/s)
+[20180224 23:30:18] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:30:18] [info] dataprovider: processing param_id="PS4", seq_id=A_9 A [A] A_8
+[20180224 23:30:19] [info] service time (0.051283s, 19.500/s)
+[20180224 23:31:20] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:31:20] [info] dataprovider: processing param_id="PS4", seq_id=A_9 T [A] A_8
+[20180224 23:31:20] [info] service time (0.055239s, 18.103/s)
+[20180224 23:31:42] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:31:42] [info] dataprovider: processing param_id="PS4", seq_id=A_9 C [A] A_8
+[20180224 23:31:42] [info] service time (0.075917s, 13.172/s)
+[20180224 23:31:58] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:31:58] [info] dataprovider: processing param_id="PS4", seq_id= A_9 G [A] A_8
+[20180224 23:31:59] [info] service time (0.074722s, 13.383/s)
+[20180224 23:34:52] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:34:52] [info] dataprovider: processing param_id="PS4", seq_id= A_9 G [A] A_78
+[20180224 23:34:52] [info] service time (0.102739s, 9.733/s)
+[20180224 23:35:51] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:35:51] [info] dataprovider: processing param_id="PS4", seq_id=(a_5 g_5 t_5 c_5 g)_2 a_5 g_5 t_5 c_5 [g](a_5 g_5 t_5 c_5 g)_2
+[20180224 23:35:51] [info] service time (0.13384s, 7.472/s)
+[20180224 23:36:43] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:36:43] [info] dataprovider: processing param_id="PS2", seq_id=(a_5 g_5 t_5 c_5 g)_2 a_5 g_5 t_5 c_5 [g](a_5 g_5 t_5 c_5 g)_2
+[20180224 23:36:43] [info] service time (0.116388s, 8.592/s)
+[20180224 23:36:54] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:36:54] [info] dataprovider: processing param_id="PS1", seq_id=(a_5 g_5 t_5 c_5 g)_2 a_5 g_5 t_5 c_5 [g](a_5 g_5 t_5 c_5 g)_2
+[20180224 23:36:54] [info] service time (0.111964s, 8.931/s)
+[20180224 23:37:03] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:37:03] [info] dataprovider: processing param_id="PS3", seq_id=(a_5 g_5 t_5 c_5 g)_2 a_5 g_5 t_5 c_5 [g](a_5 g_5 t_5 c_5 g)_2
+[20180224 23:37:03] [info] service time (0.117982s, 8.476/s)
+[20180224 23:37:08] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:37:08] [info] dataprovider: processing param_id="PS4", seq_id=(a_5 g_5 t_5 c_5 g)_2 a_5 g_5 t_5 c_5 [g](a_5 g_5 t_5 c_5 g)_2
+[20180224 23:37:08] [info] service time (0.113339s, 8.823/s)
+[20180224 23:38:31] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:38:31] [info] dataprovider: processing param_id="PS2", seq_id=(a_5 g_5 t_5 c_5 g)_2 a_5 g_5 t_5 c_5 [g](a_5 g_5 t_5 c_5 g)_2
+[20180224 23:38:31] [info] service time (0.081794s, 12.226/s)
+[20180224 23:50:00] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:50:00] [info] dataprovider: processing param_id="PS2", seq_id=A_20
+[20180224 23:50:00] [info] service time (0.04919s, 20.329/s)
+[20180224 23:50:07] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:50:07] [info] dataprovider: processing param_id="PS4", seq_id=C_20
+[20180224 23:50:07] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:50:07] [info] dataprovider: processing param_id="PS4", seq_id=C_20
+[20180224 23:50:07] [info] service time (0.052466s, 19.060/s)
+[20180224 23:50:07] [info] service time (0.056619s, 17.662/s)
+[20180224 23:50:39] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:50:39] [info] dataprovider: processing param_id="PS4", seq_id=C_20[C]
+[20180224 23:50:39] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:50:39] [info] dataprovider: processing param_id="PS4", seq_id=C_20[C]
+[20180224 23:50:39] [info] service time (0.072903s, 13.717/s)
+[20180224 23:50:39] [info] service time (0.093879s, 10.652/s)
+[20180224 23:50:53] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:50:53] [info] dataprovider: processing param_id="PS2", seq_id=A_20[C]
+[20180224 23:50:53] [info] service time (0.038399s, 26.042/s)
+[20180224 23:51:22] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:51:22] [info] dataprovider: processing param_id="PS2", seq_id=A_200[C]
+[20180224 23:51:22] [info] service time (0.132648s, 7.539/s)
+[20180224 23:51:30] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:51:30] [info] dataprovider: processing param_id="PS4", seq_id=C_200[C]
+[20180224 23:51:30] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:51:30] [info] dataprovider: processing param_id="PS4", seq_id=C_200[C]
+[20180224 23:51:30] [info] service time (0.178953s, 5.588/s)
+[20180224 23:51:30] [info] service time (0.20733s, 4.823/s)
+[20180224 23:52:21] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:52:21] [info] dataprovider: processing param_id="PS2", seq_id=A_200[C]G[100]
+[20180224 23:52:21] [info] service time (0.017917s, 55.813/s)
+[20180224 23:52:27] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180224 23:52:27] [info] dataprovider: processing param_id="PS2", seq_id=A_200[C]G[100]
+[20180224 23:52:27] [info] service time (0.023146s, 43.204/s)
+[20180225 13:42:46] [info] if_loggedin: granting access to /view1 to generic user at 128.178.109.243
+[20180226 04:14:14] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180226 04:14:14] [info] dataprovider: processing param_id="PS4", seq_id=TTTATACTAACTTGAGCGAAACGGGAAGGGTTTTCACCGATATCACCGAAACGCGCGAGGCAGC TGTATGGCATGAAAGAGTTCTTCCCGGAAAAC GCGGTGGAATATTTCGTTTCCTACTACGACTA CTATCAGCCGGAAGCCTATGTACCGAGTTCCG ACACTTTCATTGAGAAAGATGCCTCAGCTCTGTT ACAGGTCACTAATACCATCTAAGTAGTTGATT CATAGTGACTGCATATGTTGTGTTTTACAGTATT ATGTAGTCTGTTTTTTATGCAAAATCTAATTTAA TATATTGATATTTATATCATTTTACGTTTCTCGT TCAGCTTT
+[20180226 04:14:14] [info] service time (0.230235s, 4.343/s)
+[20180226 04:58:08] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180226 04:58:08] [info] dataprovider: processing param_id="PS4", seq_id=(AT)_10 (CG)_102 (AT)_10 (CG)_102 (AT)_10 (CG)_102
+[20180226 04:58:09] [info] service time (0.467245s, 2.140/s)
+[20180226 05:00:25] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180226 05:00:25] [info] dataprovider: processing param_id="PS4", seq_id=((AT)_10 (CG)_102 (AT)_10 (CG)_102 (AT)_10 (CG)_102)_10
+[20180226 05:00:25] [info] service time (0.024005s, 41.658/s)
+[20180226 05:00:38] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180226 05:00:38] [info] dataprovider: processing param_id="PS4", seq_id=((AT)_10 (CG)_102 (AT)_10 (CG)_102 (AT)_10 (CG)_102)_5
+[20180226 05:00:38] [info] service time (0.020016s, 49.960/s)
+[20180226 05:00:46] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180226 05:00:46] [info] dataprovider: processing param_id="PS4", seq_id=((AT)_10 (CG)_102 (AT)_10 (CG)_102 (AT)_10 (CG)_102)_2
+[20180226 05:00:47] [info] service time (1.317759s, 0.759/s)
+[20180226 11:32:26] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180226 11:32:26] [info] dataprovider: processing param_id="PS4", seq_id=(AT)_1200
+[20180226 11:32:29] [info] service time (3.305776s, 0.303/s)
+[20180226 11:36:14] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180226 11:36:14] [info] dataprovider: processing param_id="PS4", seq_id=(AT)_50
+[20180226 11:36:14] [info] service time (0.091577s, 10.920/s)
+[20180226 11:48:14] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180226 11:48:14] [info] dataprovider: processing param_id="PS4", seq_id=(a_5 c_5 t_5 g_5 c)_20
+[20180226 11:48:14] [info] service time (0.242559s, 4.123/s)
+[20180226 13:43:54] [info] if_loggedin: granting access to /view1 to generic user at 128.178.109.243
+[20180226 15:00:57] [info] Manager 86400 stopped
+[20180226 15:01:00] [info] Listening at "http://*:3457"
+[20180226 15:01:00] [info] Manager 90955 started
+[20180226 15:01:00] [info] Creating process id file "/home/debruin/cgdna_web/script/hypnotoad.pid"
+[20180226 15:01:57] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180226 15:01:57] [info] dataprovider: processing param_id="PS4", seq_id=A_500
+[20180226 15:01:57] [info] service time (0.301455s, 3.317/s)
+[20180226 15:05:46] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180226 15:05:46] [info] dataprovider: processing param_id="PS4", seq_id=A_500
+[20180226 15:05:46] [info] service time (0.282704s, 3.537/s)
+[20180226 15:06:58] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180226 15:06:58] [info] dataprovider: processing param_id=PS4, seq_id=(ACTG_5A)_2 [C] A G_10 T
+[20180226 15:06:59] [info] service time (0.0606s, 16.502/s)
+[20180226 15:07:17] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180226 15:07:17] [info] dataprovider: processing param_id=PS4, seq_id=(a_5 g_5 t_5 c_5 g)_2 a_5 g_5 t_5 c_5 [g](a_5 g_5 t_5 c_5 g)_2
+[20180226 15:07:17] [info] service time (0.100924s, 9.908/s)
+[20180226 15:10:35] [info] Manager 90955 stopped
+[20180226 15:10:45] [info] Listening at "http://*:3457"
+[20180226 15:10:45] [info] Manager 91149 started
+[20180226 15:10:45] [info] Creating process id file "/home/debruin/cgdna_web/script/hypnotoad.pid"
+[20180226 15:11:21] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180226 15:11:21] [info] dataprovider: processing param_id="PS4", seq_id=A_500
+[20180226 15:11:22] [info] service time (0.291921s, 3.426/s)
+[20180226 15:13:13] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180226 15:13:13] [info] dataprovider: processing param_id="PS4", seq_id=(a_5 c_5 t_5 g_5 c)_30
+[20180226 15:13:13] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180226 15:13:13] [info] dataprovider: processing param_id="PS4", seq_id=(a_5 c_5 t_5 g_5 c)_30
+[20180226 15:13:14] [info] service time (0.422353s, 2.368/s)
+[20180226 15:13:14] [info] service time (0.461748s, 2.166/s)
+[20180226 15:18:12] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180226 15:18:12] [info] dataprovider: processing param_id="PS4", seq_id=(A_5 T_5 G_5 C_6)_50
+[20180226 15:18:13] [info] service time (0.783251s, 1.277/s)
+[20180226 15:25:11] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180226 15:25:11] [info] dataprovider: processing param_id="PS4", seq_id= (ACTG_5A)_2 [C] A G_10 T Get started
+[20180226 15:25:11] [info] service time (0.021221s, 47.123/s)
+[20180226 15:25:21] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180226 15:25:21] [info] dataprovider: processing param_id="PS4", seq_id= (ACTG_5A)_2 [C] A G_10 T
+[20180226 15:25:21] [info] service time (0.077393s, 12.921/s)
+[20180226 15:29:39] [info] Starting zero downtime software upgrade
+[20180226 15:29:39] [info] Listening at "http://*:3457"
+[20180226 15:29:39] [info] Manager 91430 started
+[20180226 15:29:39] [info] Upgrade successful, stopping 91149
+[20180226 15:29:39] [info] Creating process id file "/home/debruin/cgdna_web/script/hypnotoad.pid"
+[20180226 15:29:40] [info] Manager 91149 stopped
+[20180226 15:29:55] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180226 15:29:55] [info] dataprovider: processing param_id="PS4", seq_id=AAAAAAA
+[20180226 15:29:56] [info] service time (0.061429s, 16.279/s)
+[20180226 15:34:20] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180226 15:34:20] [info] dataprovider: processing param_id="PS4", seq_id=(AT)_1000
+[20180226 15:34:20] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180226 15:34:20] [info] dataprovider: processing param_id="PS4", seq_id=(AT)_1000
+[20180226 15:34:23] [info] service time (2.455526s, 0.407/s)
+[20180226 15:34:23] [info] service time (2.54472s, 0.393/s)
+[20180226 15:49:29] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180226 15:49:29] [info] dataprovider: processing param_id="PS4", seq_id=A_1100
+[20180226 15:49:30] [info] service time (0.813236s, 1.230/s)
+[20180226 18:10:12] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180226 18:10:12] [info] dataprovider: processing param_id="PS4", seq_id=atggatccactgatactacgaccagaacatgatgttctca
+[20180226 18:10:12] [info] service time (0.090098s, 11.099/s)
+[20180226 18:17:36] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180226 18:17:36] [info] dataprovider: processing param_id="PS3", seq_id=atggatccactgatactacgaccagaacatgatgttctca
+[20180226 18:17:36] [info] service time (0.060188s, 16.615/s)
+[20180226 18:17:50] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180226 18:17:50] [info] dataprovider: processing param_id="PS2", seq_id=atggatccactgatactacgaccagaacatgatgttctca
+[20180226 18:17:50] [info] service time (0.049839s, 20.065/s)
+[20180226 18:18:15] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180226 18:18:15] [info] dataprovider: processing param_id="PS1", seq_id=atggatccactgatactacgaccagaacatgatgttctca
+[20180226 18:18:15] [info] service time (0.044021s, 22.716/s)
+[20180226 21:17:04] [info] if_loggedin: granting access to /data/usr to generic user at 128.178.166.117
+[20180226 21:17:04] [error] cannot read /home/debruin/cgdna_web/data/usr.json : No such file or directory
+[20180226 21:17:04] [info] service time (0.00509s, 196.464/s)
+[20180226 21:17:04] [error] Can't call method "getlines" on an undefined value at /home/debruin/cgdna_web/script/../lib/CgdnaWeb/Controller/DataProvider.pm line 31.
+
+[20180227 13:44:25] [info] if_loggedin: granting access to /view1 to generic user at 128.178.109.243
+[20180228 10:46:19] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180228 10:46:19] [info] dataprovider: processing param_id="PS4", seq_id=A_9 A [A] A_8
+[20180228 10:46:19] [info] service time (0.055462s, 18.030/s)
+[20180228 10:47:04] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180228 10:47:04] [info] dataprovider: processing param_id="PS4", seq_id=A_9 T [A] A_8
+[20180228 10:47:04] [info] service time (0.055567s, 17.996/s)
+[20180228 10:47:26] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180228 10:47:26] [info] dataprovider: processing param_id="PS4", seq_id=A_9 G [A] A_8
+[20180228 10:47:26] [info] service time (0.074462s, 13.430/s)
+[20180228 10:47:45] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180228 10:47:45] [info] dataprovider: processing param_id="PS4", seq_id=A_9 C [A] A_8
+[20180228 10:47:45] [info] service time (0.068113s, 14.681/s)
+[20180228 10:54:24] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180228 10:54:24] [info] dataprovider: processing param_id=PS4, seq_id=cgagctcttacgcgtgctagcccgggaccaagatggcgaccgctgctgctgtggctaggccgcctccccagccgggtgggcacctgtcctccggtccggaaggtggccggctgtccccggcccacacagggtgctgcctcagcgcctctgtgcttctgcctgttccagaagctgtcaggttctctggcgcaccctctcacctgttcagactaatttcctaagttcggcgggtcccggaccaagatggcgaccgctgctgctgtggcttaggtcgcctccccagccgggcgggcacctgtcctccggtccggaaggtggccggctgtccccggcccacacagggtgctgcctcagtgcctctgtgcttccgcctgttccagaagctgtcaggttctctgg cgcaccctctcacctgttcagactaatttcctaagttcctcaatacacttcttgagtacatgaacattggttctttagctaaataataaaaatattcatgattaccctgtcaacaaaatcattagcattttatctactattttgtctatttattctagtccatacctatacttattctattattatactattctacctactattttatctacttattttactttttagaaatttagattacactttgtcacactatcactgaaactatacaaatagccctcttagaaaattatggagtgatatatttagttcataatttcactgaattcaaagctcaatatatcagagatgacacaggtcattggttctgtttataagtaaaactttgtttctatttgttaagtaaaatctatcactcagatgaaggccaaaataggccaaattatctctcctattctatgtcatctcctctgctctcttttctcagtaccaaagcatgttaggaccatgtccaaggcattctctcctcatcttttctcagtgccaaatgcatttcttcaaacctcaggatgcagcataaaagcaacagatatatgaacaagagtagggggacccagagcttctcttcatgtcaccagataagaaaagaaaatgtcaaacagcacagccagccttctttccctactttttcttcagtcgctgtgacctgaagatgttagcagttacttgtcaaaatgacactgttcagggaagtgccgctgctttagaactacaatcgtttcatttatatcgtgtcttactctgattttataaattaatagagcaaccccaaatctcatcaaataaagtagtgggttttcactttgtgttttgggggttcacagtgattggaaactgatcattcttatgcttggaatattgacatcccccatggctatgaataaagtgcgttttacaattttaaataagtgcttttgcttgagttcctttttctcaaggttctgtcatcgagtgcatgtttctaacatgatgcctttcagcccacactctccttgggctgctttcctgtgcattctctaggattcctccttcattccactgcctgactcagacagatgctgtcagaacaatttacatccattttttctttccttccttctttccttccttccttccttccttccttccttccttcctttctttctttcttttctttctttctttctttcttttgcccagaaatgaccaaacacttaatgttcagcaaaaaatgtattttgactcagtagctaatttagcacatacccaggataatctgctcatttcctaacacactgtactacactttaaagaggtctggtagtacatgatggaaacaatgaggaataaagaggatttgatggtgatcttcaattctatattgctcatggacatgttgttgctttaagagaggaagtttctagaaacacacattagaaactttttttttccattttttattaggtatttaactcatttacatttccaatgctataccaaaagtcccccatatccacccacccccactcccctgcccacccactccccctttttggccctggtgttcccctgtactggggcatataaagtttgcaagtccaatgagcctctctttccagtgatggccgactaggccatctt
+[20180228 10:54:26] [info] service time (2.634263s, 0.380/s)
+[20180228 13:49:09] [info] if_loggedin: granting access to /view1 to generic user at 128.178.109.243
+[20180228 16:19:10] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180228 16:19:10] [info] dataprovider: processing param_id="PS4", seq_id=(ACTG_5A)_2 [C] A G_10 T
+[20180228 16:19:10] [info] service time (0.060042s, 16.655/s)
+[20180228 16:20:11] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180228 16:20:11] [info] dataprovider: processing param_id="PS4", seq_id=(GACA_5G)_2 [C] G C_10 C
+[20180228 16:20:11] [info] service time (0.062876s, 15.904/s)
+[20180228 16:40:12] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180228 16:40:12] [info] dataprovider: processing param_id="PS4", seq_id=TGACGCAATCTCAGCCGTCTTGCCCAAGTCA
+[20180228 16:40:12] [info] service time (0.063656s, 15.709/s)
+[20180228 16:43:03] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180228 16:43:03] [info] dataprovider: processing param_id="PS4", seq_id=TGACGCAATCTCAGCCGTCTTGCCCAAGTCA
+[20180228 16:43:03] [info] service time (0.079745s, 12.540/s)
+[20180228 17:11:52] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180228 17:11:52] [info] dataprovider: processing param_id="PS4", seq_id=(AGTCAGTCGAGACCCAT)_2[T](GCTCGCATGCCCTAGGTA)_3
+[20180228 17:11:52] [info] service time (0.084865s, 11.783/s)
+[20180228 17:12:46] [info] if_loggedin: granting access to /data3 to generic user at 127.0.0.1
+[20180228 17:12:46] [info] processing seq_id: (AGTCAGTCGAGACCCAT)_2[T](GCTCGCATGCCCTAGGTA)_3
+[20180228 17:12:46] [info] processing param_id: "PS4"
+[20180228 17:12:47] [info] if_loggedin: granting access to /data3 to generic user at 127.0.0.1
+[20180228 17:12:47] [error] no seq_id or param_id, returning dummy response
+[20180228 17:12:47] [info] service time (0.002606s, 383.730/s)
+[20180228 17:12:47] [info] processing seq_id: 
+[20180228 17:12:47] [info] processing param_id: "PS4"
+[20180228 17:12:47] [info] if_loggedin: granting access to /data3 to generic user at 127.0.0.1
+[20180228 17:12:47] [error] no seq_id or param_id, returning dummy response
+[20180228 17:12:47] [info] service time (0.002269s, 440.723/s)
+[20180228 17:12:47] [info] processing seq_id: 
+[20180228 17:12:47] [info] if_loggedin: granting access to /data3 to generic user at 127.0.0.1
+[20180228 17:12:47] [info] processing param_id: "PS4"
+[20180228 17:12:47] [error] no seq_id or param_id, returning dummy response
+[20180228 17:12:47] [info] service time (0.002455s, 407.332/s)
+[20180228 17:12:47] [info] processing seq_id: 
+[20180228 17:12:47] [info] processing param_id: "PS4"
+[20180228 17:12:47] [warn] Mojo::Reactor::EV: Timer failed: Connection already closed at /opt/perlbrew/perls/perl-5.20.2/lib/site_perl/5.20.3/Mojo/EventEmitter.pm line 15.
+[20180228 17:12:47] [warn] Mojo::Reactor::EV: Timer failed: Connection already closed at /opt/perlbrew/perls/perl-5.20.2/lib/site_perl/5.20.3/Mojo/EventEmitter.pm line 15.
+[20180228 17:12:47] [warn] Mojo::Reactor::EV: Timer failed: Connection already closed at /opt/perlbrew/perls/perl-5.20.2/lib/site_perl/5.20.3/Mojo/EventEmitter.pm line 15.
+[20180228 17:12:47] [info] service time (0.151242s, 6.612/s)
+[20180228 18:18:06] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180228 18:18:06] [info] dataprovider: processing param_id=PS4, seq_id=cgcgatatcgcg
+[20180228 18:18:06] [info] service time (0.066464s, 15.046/s)
+[20180228 23:04:35] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180228 23:04:35] [info] dataprovider: processing param_id="PS4", seq_id=(ACTG_5A)_2 [C] A G_10 T
+[20180228 23:04:35] [info] service time (0.080925s, 12.357/s)
+[20180228 23:05:16] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180228 23:05:16] [info] dataprovider: processing param_id="PS4", seq_id=(a_5 g_5 t_5 c_5 g)_2 a_5 g_5 t_5 c_5 [g](a_5 g_5 t_5 c_5 g)_2
+[20180228 23:05:16] [info] service time (0.128363s, 7.790/s)
+[20180228 23:05:34] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180228 23:05:34] [info] dataprovider: processing param_id="PS4", seq_id=(ACTG_5A)_2 [C] A G_10 T
+[20180228 23:05:34] [info] service time (0.086996s, 11.495/s)
+[20180228 23:05:36] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180228 23:05:36] [info] dataprovider: processing param_id="PS4", seq_id=(ACTG_5A)_2 [C] A G_10 T
+[20180228 23:05:36] [info] service time (0.090074s, 11.102/s)
+[20180301 12:49:03] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180301 12:49:03] [info] dataprovider: processing param_id=PS4, seq_id=ttatatatatacatatatacatatatacatatatacatatatacacatatacacatatacacatatacatatatacatat atacatatatacatatatacacatatacacatatacacatatacacatatacacatatacatacatacatacatacatac atacatatatatatacatatatacatacatacatacatacatacatacatacatatatacatatatacatacatacatac atacatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatac gtatatgcatatatacgtatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatac atatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatac atatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatac atatatacatatatacatatatacatatatacatatatacatatatatatatata
+[20180301 12:49:03] [info] service time (0.38996s, 2.564/s)
+[20180301 13:04:18] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180301 13:04:18] [info] dataprovider: processing param_id=PS4, seq_id=ttatatatatacatatatacatatatacatatatacatatatacacatatacacatatacacatatacatatatacatatatacatatatacatatatacacatatacacatatacacatatacacatatacacatatacatacatacatacatacatacatacatatatatatacatatatacatacatacatacatacatacatacatacatatatacatatatacatacatacatacatacatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacgtatatgcatatatacgtatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatatatatata
+[20180301 13:04:19] [info] service time (0.401599s, 2.490/s)
+[20180301 13:50:00] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180301 13:50:00] [info] dataprovider: processing param_id=PS4, seq_id= ttatatatatacatatatacatatatacatatatacatatatacacatatacacatatacacatatacatatatacatat atacatatatacatatatacacatatacacatatacacatatacacatatacacatatacatacatacatacatacatac atacatatatatatacatatatacatacatacatacatacatacatacatacatatatacatatatacatacatacatac atacatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatac gtatatgcatatatacgtatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatac atatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatac atatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatac atatatacatatatacatatatacatatatacatatatacatatatatatatata 
+[20180301 13:50:00] [info] service time (0.405184s, 2.468/s)
+[20180301 13:50:26] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180301 13:50:26] [info] dataprovider: processing param_id=PS4, seq_id= ttatatatatacatatatacatatatacatatatacatatatacacatatacacatatacacatatacatatatacatat atacatatatacatatatacacatatacacatatacacatatacacatatacacatatacatacatacatacatacatac atacatatatatatacatatatacatacatacatacatacatacatacatacatatatacatatatacatacatacatac atacatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatac gtatatgcatatatacgtatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatac atatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatac atatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatac atatatacatatatacatatatacatatatacatatatacatatatatatatata 
+[20180301 13:50:26] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180301 13:50:26] [info] dataprovider: processing param_id=PS4, seq_id= ttatatatatacatatatacatatatacatatatacatatatacacatatacacatatacacatatacatatatacatat atacatatatacatatatacacatatacacatatacacatatacacatatacacatatacatacatacatacatacatac atacatatatatatacatatatacatacatacatacatacatacatacatacatatatacatatatacatacatacatac atacatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatac gtatatgcatatatacgtatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatac atatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatac atatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatac atatatacatatatacatatatacatatatacatatatacatatatatatatata 
+[20180301 13:50:27] [info] service time (0.409724s, 2.441/s)
+[20180301 13:50:27] [info] service time (0.414607s, 2.412/s)
+[20180301 13:51:46] [info] if_loggedin: granting access to /view1 to generic user at 128.178.109.243
+[20180301 13:54:19] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180301 13:54:19] [info] dataprovider: processing param_id=PS4, seq_id=a_600
+[20180301 13:54:19] [info] service time (0.38474s, 2.599/s)
+[20180301 13:54:38] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180301 13:54:38] [info] dataprovider: processing param_id=PS4, seq_id=(at)_300
+[20180301 13:54:39] [info] service time (0.377897s, 2.646/s)
+[20180301 14:42:38] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180301 14:42:38] [info] dataprovider: processing param_id="PS4", seq_id=ttatatatatacatatatacatatatacatatatacatatatacacatatacacatatacacatatacatatatacatat atacatatatacatatatacacatatacacatatacacatatacacatatacacatatacatacatacatacatacatac atacatatatatatacatatatacatacatacatacatacatacatacatacatatatacatatatacatacatacatac atacatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatac gtatatgcatatatacgtatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatac atatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatac atatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatacatatatac atatatacatatatacatatatacatatatacatatatacatatatatatatata
+[20180301 14:42:39] [info] service time (0.403386s, 2.479/s)
+[20180301 18:12:54] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180301 18:12:54] [info] dataprovider: processing param_id="PS4", seq_id=CACTTGGTGGCGGCCGCcttcgttggaaacggaaATATCTTCACATAAAAACTAGACAGAAGCATTCTCAGAAACTTCTTTGTGATGTGTGCATTCAACTCACAGAGTTGAACCTTCCTTTTGATAGAGCAGTTTTGAAACACTCTTTTTGTAGAATCTCCAAGTCTGCAGAGATCTGGTCTCATAGC
+[20180301 18:12:54] [info] service time (0.187056s, 5.346/s)
+[20180301 18:23:30] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180301 18:23:30] [info] dataprovider: processing param_id=PS4, seq_id=Atatatatatcgcg
+[20180301 18:23:30] [info] service time (0.075729s, 13.205/s)
+[20180301 20:32:42] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180301 20:32:42] [info] dataprovider: processing param_id=PS4, seq_id=(AGGGTT)_50
+[20180301 20:32:42] [info] service time (0.17895s, 5.588/s)
+[20180301 20:33:46] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180301 20:33:46] [info] dataprovider: processing param_id=PS4, seq_id=(AGGGTT)_50
+[20180301 20:33:46] [info] service time (0.198555s, 5.036/s)
+[20180301 20:34:43] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180301 20:34:43] [info] dataprovider: processing param_id=PS4, seq_id=AGGGTTAGGGTTAGGGTT
+[20180301 20:34:43] [info] service time (0.075236s, 13.292/s)
+[20180302 03:14:29] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180302 03:14:29] [info] dataprovider: processing param_id=PS4, seq_id=(TTAGGG)_10
+[20180302 03:14:29] [info] service time (0.102959s, 9.713/s)
+[20180302 03:16:49] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180302 03:16:49] [info] dataprovider: processing param_id=PS4, seq_id=(Ggg)_20
+[20180302 03:16:50] [info] service time (0.101706s, 9.832/s)
+[20180302 03:17:54] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180302 03:17:54] [info] dataprovider: processing param_id=PS4, seq_id=(Tta)_20
+[20180302 03:17:54] [info] service time (0.101384s, 9.863/s)
+[20180302 03:31:53] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180302 03:31:53] [info] dataprovider: processing param_id=PS4, seq_id=(Tag)_20
+[20180302 03:31:53] [info] service time (0.099902s, 10.010/s)
+[20180302 07:23:09] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180302 07:23:09] [info] dataprovider: processing param_id=PS4, seq_id=A_4t_4
+[20180302 07:23:09] [info] service time (0.060406s, 16.555/s)
+[20180302 07:23:37] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180302 07:23:37] [info] dataprovider: processing param_id=PS4, seq_id=T_4a_4
+[20180302 07:23:37] [info] service time (0.067597s, 14.794/s)
+[20180302 07:25:48] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180302 07:25:48] [info] dataprovider: processing param_id=PS4, seq_id=G_4c_4
+[20180302 07:25:48] [info] service time (0.062443s, 16.015/s)
+[20180302 07:26:09] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180302 07:26:09] [info] dataprovider: processing param_id=PS4, seq_id=C_4g_4
+[20180302 07:26:09] [info] service time (0.058255s, 17.166/s)
+[20180302 12:18:39] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180302 12:18:39] [info] dataprovider: processing param_id="PS4", seq_id=Ãaaaa
+[20180302 12:18:39] [info] service time (0.018122s, 55.182/s)
+[20180302 12:40:12] [info] if_loggedin: granting access to /view1 to generic user at 128.178.14.9
+[20180302 12:40:12] [info] if_loggedin: granting access to /view1 to generic user at 128.178.14.9
+[20180302 12:46:37] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180302 12:46:37] [info] dataprovider: processing param_id=PS4, seq_id=a
+[20180302 12:46:37] [info] service time (0.016079s, 62.193/s)
+[20180302 12:46:47] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180302 12:46:47] [info] dataprovider: processing param_id=PS4, seq_id=a_6
+[20180302 12:46:47] [info] service time (0.065798s, 15.198/s)
+[20180302 12:47:12] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180302 12:47:12] [info] dataprovider: processing param_id=PS4, seq_id=a_6000
+[20180302 12:47:12] [info] service time (0.013433s, 74.444/s)
+[20180302 12:47:49] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180302 12:47:49] [info] dataprovider: processing param_id=PS4, seq_id=a_60
+[20180302 12:47:49] [info] service time (0.096494s, 10.363/s)
+[20180302 12:48:06] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180302 12:48:06] [info] dataprovider: processing param_id=PS4, seq_id=a_60fgccc
+[20180302 12:48:06] [info] service time (0.017499s, 57.146/s)
+[20180302 13:17:06] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180302 13:17:06] [info] dataprovider: processing param_id="PS4", seq_id=CGCGAATTCGCG
+[20180302 13:17:06] [info] service time (0.068535s, 14.591/s)
+[20180302 13:27:10] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180302 13:27:10] [info] dataprovider: processing param_id=PS4, seq_id=AAAAAA
+[20180302 13:27:10] [info] service time (0.060478s, 16.535/s)
+[20180302 13:35:55] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180302 13:35:55] [info] dataprovider: processing param_id="PS4", seq_id=Aaaaaaaaaaaaaaaaaa
+[20180302 13:35:55] [info] service time (0.066096s, 15.130/s)
+[20180302 13:55:07] [info] if_loggedin: granting access to /view1 to generic user at 128.178.109.243
+[20180302 14:11:48] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180302 14:11:48] [info] dataprovider: processing param_id="PS4", seq_id=Aaaaaaaaaaaaaaaaaa
+[20180302 14:11:48] [info] service time (0.070567s, 14.171/s)
+[20180302 14:38:37] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180302 14:38:37] [info] dataprovider: processing param_id="PS4", seq_id=gattacatacataca
+[20180302 14:38:37] [info] service time (0.073257s, 13.651/s)
+[20180302 15:53:07] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180302 15:53:07] [info] dataprovider: processing param_id="PS4", seq_id=ACGTGCGACTAGCGACTG
+[20180302 15:53:07] [info] service time (0.08257s, 12.111/s)
+[20180302 15:53:13] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180302 15:53:13] [info] dataprovider: processing param_id="PS4", seq_id=ACGTGCGACTAGCGACTG
+[20180302 15:53:13] [info] service time (0.063867s, 15.658/s)
+[20180302 15:53:36] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180302 15:53:36] [info] dataprovider: processing param_id="PS4", seq_id=ACGTGCGACTAGCGACTG
+[20180302 15:53:36] [info] service time (0.079302s, 12.610/s)
+[20180302 15:53:50] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180302 15:53:50] [info] dataprovider: processing param_id="PS4", seq_id=(AG)_100
+[20180302 15:53:50] [info] service time (0.164961s, 6.062/s)
+[20180302 15:54:02] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180302 15:54:02] [info] dataprovider: processing param_id="PS4", seq_id=AGCCTAGCTAGCTAGCG
+[20180302 15:54:03] [info] service time (0.067829s, 14.743/s)
+[20180302 18:45:55] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180302 18:45:55] [info] dataprovider: processing param_id=PS4, seq_id=ACGTTGCAGCATAAAAATCGAGAC
+[20180302 18:45:55] [info] service time (0.070975s, 14.089/s)
+[20180302 18:48:17] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180302 18:48:17] [info] dataprovider: processing param_id=PS4, seq_id=ACGTTGCAGCATAAAAATCGAGACACGTTGCAGCATAAAAATCGAGACACGTTGCAGCATAAAAATCGAGACACGTTGCAGCATAAAAATCGAGACACGTTGCAGCATAAAAATCGAGAC
+[20180302 18:48:17] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180302 18:48:17] [info] dataprovider: processing param_id=PS4, seq_id=ACGTTGCAGCATAAAAATCGAGACACGTTGCAGCATAAAAATCGAGACACGTTGCAGCATAAAAATCGAGACACGTTGCAGCATAAAAATCGAGACACGTTGCAGCATAAAAATCGAGAC
+[20180302 18:48:17] [info] service time (0.161499s, 6.192/s)
+[20180302 18:48:17] [info] service time (0.168068s, 5.950/s)
+[20180302 18:49:28] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180302 18:49:28] [info] dataprovider: processing param_id=PS1, seq_id=ACGTTGCAGCATAAAAATCGAGACACGTTGCAGCATAAAAATCGAGACACGTTGCAGCATAAAAATCGAGACACGTTGCAGCATAAAAATCGAGACACGTTGCAGCATAAAAATCGAGAC
+[20180302 18:49:28] [info] service time (0.117911s, 8.481/s)
+[20180302 18:49:36] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180302 18:49:36] [info] dataprovider: processing param_id=PS2, seq_id=ACGTTGCAGCATAAAAATCGAGACACGTTGCAGCATAAAAATCGAGACACGTTGCAGCATAAAAATCGAGACACGTTGCAGCATAAAAATCGAGACACGTTGCAGCATAAAAATCGAGAC
+[20180302 18:49:37] [info] service time (0.113589s, 8.804/s)
+[20180302 19:28:29] [info] Manager 91430 stopped
+[20180302 19:28:35] [info] Listening at "http://*:3457"
+[20180302 19:28:35] [info] Manager 95222 started
+[20180302 19:28:35] [info] Creating process id file "/home/debruin/cgdna_web/script/hypnotoad.pid"
+[20180302 19:28:47] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180302 19:28:47] [info] dataprovider: processing param_id="PS4", seq_id=A_20
+[20180302 19:28:48] [info] service time (0.070016s, 14.282/s)
+[20180302 19:49:25] [info] Manager 95222 stopped
+[20180302 19:49:27] [info] Listening at "http://*:3457"
+[20180302 19:49:27] [info] Manager 95301 started
+[20180302 19:49:27] [info] Creating process id file "/home/debruin/cgdna_web/script/hypnotoad.pid"
+[20180302 19:51:03] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180302 19:51:03] [info] dataprovider: processing param_id="PS4", seq_id=(AACTACTACTATCTACTGACTGTATACG_5
+[20180302 19:51:03] [info] service time (0.020434s, 48.938/s)
+[20180302 19:51:05] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180302 19:51:05] [info] dataprovider: processing param_id="PS4", seq_id=(AACTACTACTATCTACTGACTGTATACG)_5
+[20180302 19:51:05] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180302 19:51:05] [info] dataprovider: processing param_id="PS4", seq_id=(AACTACTACTATCTACTGACTGTATACG)_5
+[20180302 19:51:05] [info] service time (0.131504s, 7.604/s)
+[20180302 19:51:06] [info] service time (0.130486s, 7.664/s)
+[20180302 19:59:44] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180302 19:59:44] [info] dataprovider: processing param_id="PS4", seq_id=CGCGAATTCGCG
+[20180302 19:59:44] [info] service time (0.060633s, 16.493/s)
+[20180302 20:03:12] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180302 20:03:12] [info] dataprovider: processing param_id="PS1", seq_id=CGCGAATTCGCG
+[20180302 20:03:12] [info] service time (0.042329s, 23.624/s)
+[20180302 21:26:42] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180302 21:26:42] [info] dataprovider: processing param_id=PS4, seq_id=Aaaaaggggcccgg
+[20180302 21:26:42] [info] service time (0.071554s, 13.975/s)
+[20180302 21:27:15] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180302 21:27:15] [info] dataprovider: processing param_id="PS4", seq_id=(ACTG_5A)_2 [C] A G_10 T
+[20180302 21:27:16] [info] service time (0.061801s, 16.181/s)
+[20180303 01:49:57] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180303 01:49:57] [info] dataprovider: processing param_id=PS4, seq_id=T_4g_4
+[20180303 01:49:57] [info] service time (0.079248s, 12.619/s)
+[20180303 01:50:24] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180303 01:50:24] [info] dataprovider: processing param_id=PS4, seq_id=(T_4g_4)_10
+[20180303 01:50:25] [info] service time (0.111638s, 8.958/s)
+[20180303 01:57:36] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180303 01:57:36] [info] dataprovider: processing param_id=PS4, seq_id=(T_4g_4)_10
+[20180303 01:57:36] [info] service time (0.078875s, 12.678/s)
+[20180303 13:58:03] [info] if_loggedin: granting access to /view1 to generic user at 128.178.109.243
+[20180303 14:28:20] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180303 14:28:20] [info] dataprovider: processing param_id="PS4", seq_id=ATCTAATCTAACACAACACAATCTAATCTAACACAACACAATCTAATCTAACACAACACA
+[20180303 14:28:20] [info] service time (0.110659s, 9.037/s)
+[20180303 14:32:15] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180303 14:32:15] [info] dataprovider: processing param_id=PS4, seq_id=G_6C_6
+[20180303 14:32:16] [info] service time (0.060225s, 16.604/s)
+[20180303 14:32:33] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180303 14:32:33] [info] dataprovider: processing param_id=PS4, seq_id=c_6G_6
+[20180303 14:32:34] [info] service time (0.067985s, 14.709/s)
+[20180303 14:32:58] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180303 14:32:58] [info] dataprovider: processing param_id=PS4, seq_id=c_6c[g]G_6
+[20180303 14:32:58] [info] service time (0.069985s, 14.289/s)
+[20180303 14:33:14] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180303 14:33:14] [info] dataprovider: processing param_id=PS4, seq_id=G_6g[c]C_6
+[20180303 14:33:14] [info] service time (0.059686s, 16.754/s)
+[20180303 14:33:37] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180303 14:33:37] [info] dataprovider: processing param_id=PS4, seq_id=a_6a[t]t_6
+[20180303 14:33:37] [info] service time (0.055524s, 18.010/s)
+[20180303 14:33:56] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180303 14:33:56] [info] dataprovider: processing param_id=PS4, seq_id=t_6t[a]a_6
+[20180303 14:33:56] [info] service time (0.058285s, 17.157/s)
+[20180303 16:59:13] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180303 16:59:13] [info] dataprovider: processing param_id="PS4", seq_id=T A G A G C G A T T T A T C T T C T G A A C C A G A C T C T T G T C A T T T G T T T T G G T A A A G A G A A A A G T T T T T C C A T C G A T T T T A T G A A T A T A C A A A T A A T T G G A G C C A A C C T G C A G G T G A T G A T T A T C A G C C A G C A G A G A A T T A A G G A A A A C A G A C A G G T T T A T T G A G C G C T T A T C T T T C C C T T T A T T T T T G C T G C G G T A A G T C G C A T A A A A A C C A T T C T T C A T A A T T C A A T C C A T T T A C T A T G T T A T G T T C T G A G G G G A G T G A A A A T T C C C C T A A T T C G A T G A A G A T T C T T G C T C A A T T G T T A T C A G C T
+[20180303 16:59:14] [info] service time (0.187879s, 5.323/s)
+[20180304 01:58:40] [info] if_loggedin: granting access to /view1 to generic user at 128.178.109.243
+[20180304 10:43:24] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180304 10:43:24] [info] dataprovider: processing param_id=PS4, seq_id=(a_5 g_5 t_5 c_5 g)_2 a_5 g_5 t_5 c_5 [g](a_5 g_5 t_5 c_5 g)_2
+[20180304 10:43:24] [info] service time (0.096176s, 10.398/s)
+[20180304 10:45:28] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180304 10:45:28] [info] dataprovider: processing param_id=PS4, seq_id=(a_5 g_5 t_5 c_5 g)_10a_5 g_5 t_5 c_5 [g](a_5 g_5 t_5 c_5 g)_2
+[20180304 10:45:28] [info] service time (0.177108s, 5.646/s)
+[20180304 10:46:58] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180304 10:46:58] [info] dataprovider: processing param_id=PS4, seq_id=(a_5 g_5 t_5 c_5 g)_40a_5 g_5 t_5 c_5 [g](a_5 g_5 t_5 c_5 g)_2
+[20180304 10:46:59] [info] service time (0.657632s, 1.521/s)
+[20180304 17:31:10] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180304 17:31:10] [info] dataprovider: processing param_id="PS4", seq_id=A_9 A [A] A_8
+[20180304 17:31:10] [info] service time (0.062758s, 15.934/s)
+[20180304 17:32:12] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180304 17:32:12] [info] dataprovider: processing param_id="PS4", seq_id=A_9 T [A] A_8
+[20180304 17:32:12] [info] service time (0.058732s, 17.026/s)
+[20180304 17:32:17] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180304 17:32:17] [info] dataprovider: processing param_id="PS4", seq_id=A_9 G [A] A_8
+[20180304 17:32:17] [info] service time (0.052128s, 19.184/s)
+[20180304 17:32:21] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180304 17:32:21] [info] dataprovider: processing param_id="PS4", seq_id=A_9 C [A] A_8
+[20180304 17:32:21] [info] service time (0.050374s, 19.852/s)
+[20180304 20:01:32] [info] if_loggedin: granting access to /view1 to generic user at 128.178.109.243
+[20180304 21:11:12] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180304 21:11:12] [info] dataprovider: processing param_id="PS4", seq_id=AAAACGCGAACG
+[20180304 21:11:12] [info] service time (0.056112s, 17.821/s)
+[20180305 09:13:52] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180305 09:13:52] [info] dataprovider: processing param_id="PS4", seq_id=G_10 AAAAG_10
+[20180305 09:13:52] [info] service time (0.056464s, 17.710/s)
+[20180305 09:29:51] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180305 09:29:51] [info] dataprovider: processing param_id="PS4", seq_id=ATATATATAAAA
+[20180305 09:29:51] [info] service time (0.069388s, 14.412/s)
+[20180305 09:32:00] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180305 09:32:00] [info] dataprovider: processing param_id="PS4", seq_id=CGCGAATTCGCG
+[20180305 09:32:00] [info] service time (0.064058s, 15.611/s)
+[20180305 12:23:12] [info] Manager 95301 stopped
+[20180305 12:23:15] [info] Listening at "http://*:3457"
+[20180305 12:23:15] [info] Manager 97197 started
+[20180305 12:23:15] [info] Creating process id file "/home/debruin/cgdna_web/script/hypnotoad.pid"
+[20180305 12:23:34] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180305 12:23:34] [info] dataprovider: processing param_id="PS4", seq_id=A_30
+[20180305 12:23:34] [info] service time (0.07125s, 14.035/s)
+[20180305 12:25:22] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180305 12:25:22] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180305 12:25:22] [info] dataprovider: processing param_id="PS4", seq_id=A_39
+[20180305 12:25:22] [info] dataprovider: processing param_id="PS4", seq_id=A_39
+[20180305 12:25:22] [info] service time (0.100602s, 9.940/s)
+[20180305 12:25:22] [info] service time (0.121129s, 8.256/s)
+[20180305 12:25:36] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180305 12:25:36] [info] dataprovider: processing param_id="PS4", seq_id=A_400
+[20180305 12:25:36] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180305 12:25:36] [info] dataprovider: processing param_id="PS4", seq_id=A_400
+[20180305 12:25:36] [info] service time (0.26088s, 3.833/s)
+[20180305 12:25:36] [info] service time (0.264222s, 3.785/s)
+[20180305 12:27:40] [info] Manager 97197 stopped
+[20180305 12:27:42] [info] Listening at "http://*:3457"
+[20180305 12:27:42] [info] Manager 97420 started
+[20180305 12:27:42] [info] Creating process id file "/home/debruin/cgdna_web/script/hypnotoad.pid"
+[20180305 12:27:55] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180305 12:27:55] [info] dataprovider: processing param_id="PS4", seq_id=A-40
+[20180305 12:27:55] [info] service time (0.022094s, 45.261/s)
+[20180305 12:27:58] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180305 12:27:58] [info] dataprovider: processing param_id="PS4", seq_id=A_40
+[20180305 12:27:58] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180305 12:27:58] [info] dataprovider: processing param_id="PS4", seq_id=A_40
+[20180305 12:27:58] [info] service time (0.071417s, 14.002/s)
+[20180305 12:27:58] [info] service time (0.056803s, 17.605/s)
+[20180305 20:03:15] [info] if_loggedin: granting access to /view1 to generic user at 128.178.109.243
+[20180306 20:03:48] [info] if_loggedin: granting access to /view1 to generic user at 128.178.109.243
+[20180306 20:22:51] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180306 20:22:51] [info] dataprovider: processing param_id="PS4", seq_id=CGAAGACTTTTY
+[20180306 20:22:51] [info] service time (0.016033s, 62.371/s)
+[20180306 20:22:51] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180306 20:22:51] [info] dataprovider: processing param_id="PS4", seq_id=CGAAGACTTTTY
+[20180306 20:22:51] [info] service time (0.019547s, 51.159/s)
+[20180307 11:05:56] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180307 11:05:56] [info] dataprovider: processing param_id="PS4", seq_id=Ggggtttac
+[20180307 11:05:56] [info] service time (0.062293s, 16.053/s)
+[20180307 13:05:01] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180307 13:05:01] [info] dataprovider: processing param_id="PS4", seq_id=A_40
+[20180307 13:05:01] [info] service time (0.061695s, 16.209/s)
+[20180307 20:04:13] [info] if_loggedin: granting access to /view1 to generic user at 128.178.109.243
+[20180308 15:52:25] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180308 15:52:25] [info] dataprovider: processing param_id="PS4", seq_id=(A_5 G_10)_10
+[20180308 15:52:25] [info] service time (0.130789s, 7.646/s)
+[20180308 15:52:35] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180308 15:52:35] [info] dataprovider: processing param_id="PS4", seq_id=(A_5 G_10)_50
+[20180308 15:52:36] [info] service time (0.490386s, 2.039/s)
+[20180308 15:53:02] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180308 15:53:02] [info] dataprovider: processing param_id="PS4", seq_id=(A_5 G_5)_50
+[20180308 15:53:02] [info] service time (0.285923s, 3.497/s)
+[20180308 16:32:55] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180308 16:32:55] [info] dataprovider: processing param_id="PS4", seq_id=(A_2 G_1 A_2 G_5)_50
+[20180308 16:32:55] [info] service time (0.301446s, 3.317/s)
+[20180308 16:33:21] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180308 16:33:21] [info] dataprovider: processing param_id="PS4", seq_id=(A_2 G_1 A_2 G_5)_100
+[20180308 16:33:22] [info] service time (0.77444s, 1.291/s)
+[20180308 16:33:43] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180308 16:33:43] [info] dataprovider: processing param_id="PS4", seq_id=(A_5 G_5)_100
+[20180308 16:33:44] [info] service time (0.806032s, 1.241/s)
+[20180308 20:35:29] [info] if_loggedin: granting access to /view1 to generic user at 128.178.109.243
+[20180309 11:02:51] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180309 11:02:51] [info] dataprovider: processing param_id=PS4, seq_id=(a_5 g_5 t_5 c_5 g)_2 a_5 g_5 t_5 c_5 [g](a_5 g_5 t_5 c_5 g)_2
+[20180309 11:02:51] [info] service time (0.111048s, 9.005/s)
+[20180309 11:03:08] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180309 11:03:08] [info] dataprovider: processing param_id=PS2, seq_id=(a_5 g_5 t_5 c_5 g)_2 a_5 g_5 t_5 c_5 [g](a_5 g_5 t_5 c_5 g)_2
+[20180309 11:03:08] [info] service time (0.090252s, 11.080/s)
+[20180309 15:04:17] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180309 15:04:17] [info] dataprovider: processing param_id="PS4", seq_id=A_9 A [A] A_8
+[20180309 15:04:17] [info] service time (0.054632s, 18.304/s)
+[20180309 15:04:24] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180309 15:04:24] [info] dataprovider: processing param_id="PS4", seq_id=A_9 T [A] A_8
+[20180309 15:04:24] [info] service time (0.060223s, 16.605/s)
+[20180309 15:04:31] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180309 15:04:31] [info] dataprovider: processing param_id="PS4", seq_id=A_9 G [A] A_8
+[20180309 15:04:31] [info] service time (0.078792s, 12.692/s)
+[20180309 15:04:36] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180309 15:04:36] [info] dataprovider: processing param_id="PS4", seq_id=A_9 C [A] A_8
+[20180309 15:04:36] [info] service time (0.057594s, 17.363/s)
+[20180309 15:42:32] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180309 15:42:32] [info] dataprovider: processing param_id="PS4", seq_id=AGCCTAGCCTATGACATGACACGTTACGACCAGACCAGCTGCACTGCAGACTGGGCCAAAAAAGCTGACTGTACTGTATGCAATGCAACCTCACCTC
+[20180309 15:42:32] [info] service time (0.088723s, 11.271/s)
+[20180309 15:43:16] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180309 15:43:16] [info] dataprovider: processing param_id="PS4", seq_id=(AGCCTAGCCTATGACATGACACGTTACGACCAGACCAGCTGCACTGCAGACTGGGCCAAAAAAGCTGACTGTACTGTATGCAATGCAACCTCACCTC)_50
+[20180309 15:43:16] [info] service time (0.017248s, 57.978/s)
+[20180309 15:43:28] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180309 15:43:28] [info] dataprovider: processing param_id="PS4", seq_id=(AGCCTAGCCTATGACATGACACGTTACGACCAGACCAGCTGCACTGCAGACTGGGCCAAAAAAGCTGACTGTACTGTATGCAATGCAACCTCACCTC)_20
+[20180309 15:43:30] [info] service time (2.275479s, 0.439/s)
+[20180309 15:46:51] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180309 15:46:51] [info] dataprovider: processing param_id="PS4", seq_id=AGCCTAGCCTATGACATGACACGTTACGACCAGACCAGCTGCACGGCGAAAAAAGCCGAAAAAAGCTGACTGTACTGTATGCAATGCAACCTCACCTC
+[20180309 15:46:51] [info] service time (0.121736s, 8.214/s)
+[20180309 15:47:11] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180309 15:47:11] [info] dataprovider: processing param_id="PS4", seq_id=(AGCCTAGCCTATGACATGACACGTTACGACCAGACCAGCTGCACGGCGAAAAAAGCCGAAAAAAGCTGACTGTACTGTATGCAATGCAACCTCACCTC)_20
+[20180309 15:47:13] [info] service time (2.334165s, 0.428/s)
+[20180309 20:36:24] [info] if_loggedin: granting access to /view1 to generic user at 128.178.109.243
+[20180310 02:07:30] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180310 02:07:30] [info] dataprovider: processing param_id="PS4", seq_id=(CAAAATTTTG)_15
+[20180310 02:07:30] [info] service time (0.119686s, 8.355/s)
+[20180310 02:07:52] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180310 02:07:52] [info] dataprovider: processing param_id="PS4", seq_id=(CAAAATTTTG)_50
+[20180310 02:07:53] [info] service time (0.284062s, 3.520/s)
+[20180310 02:08:16] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180310 02:08:16] [info] dataprovider: processing param_id="PS4", seq_id=(GTTTTAAAAC)_50
+[20180310 02:08:16] [info] service time (0.281285s, 3.555/s)
+[20180310 02:09:24] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180310 02:09:24] [info] dataprovider: processing param_id="PS4", seq_id=(CAAAATTTTG)_100
+[20180310 02:09:25] [info] service time (0.705982s, 1.416/s)
+[20180310 02:13:51] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180310 02:13:51] [info] dataprovider: processing param_id="PS4", seq_id=(GT4A4C)_15
+[20180310 02:13:51] [info] service time (0.019817s, 50.462/s)
+[20180310 02:14:07] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180310 02:14:07] [info] dataprovider: processing param_id="PS4", seq_id=(G T_4 A_4 C)_15
+[20180310 02:14:07] [info] service time (0.110497s, 9.050/s)
+[20180310 02:14:40] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180310 02:14:40] [info] dataprovider: processing param_id="PS4", seq_id=(C A_4 T_4 G)_15
+[20180310 02:14:41] [info] service time (0.15818s, 6.322/s)
+[20180310 02:15:36] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180310 02:15:36] [info] dataprovider: processing param_id="PS4", seq_id=(C A_4 T_4 G)_15
+[20180310 02:15:36] [info] service time (0.1358s, 7.364/s)
+[20180310 02:17:04] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180310 02:17:04] [info] dataprovider: processing param_id="PS1", seq_id=(C A_4 T_4 G)_15
+[20180310 02:17:04] [info] service time (0.149039s, 6.710/s)
+[20180310 02:17:11] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180310 02:17:11] [info] dataprovider: processing param_id="PS4", seq_id=(G T_4 A_4 C)_15
+[20180310 02:17:11] [info] service time (0.154081s, 6.490/s)
+[20180310 02:17:16] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180310 02:17:16] [info] dataprovider: processing param_id="PS4", seq_id=(G T_4 A_4 C)_15
+[20180310 02:17:16] [info] service time (0.133086s, 7.514/s)
+[20180310 02:17:19] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180310 02:17:19] [info] dataprovider: processing param_id="PS4", seq_id=(G T_4 A_4 C)_15
+[20180310 02:17:19] [info] service time (0.114821s, 8.709/s)
+[20180310 02:17:34] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180310 02:17:34] [info] dataprovider: processing param_id="PS4", seq_id=(G T_4 A_4 C)_15
+[20180310 02:17:34] [info] service time (0.110894s, 9.018/s)
+[20180310 02:17:40] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180310 02:17:40] [info] dataprovider: processing param_id="PS1", seq_id=(G T_4 A_4 C)_15
+[20180310 02:17:40] [info] service time (0.146182s, 6.841/s)
+[20180310 02:17:54] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180310 02:17:54] [info] dataprovider: processing param_id="PS2", seq_id=(G T_4 A_4 C)_15
+[20180310 02:17:54] [info] service time (0.109234s, 9.155/s)
+[20180310 02:18:03] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180310 02:18:03] [info] dataprovider: processing param_id="PS2", seq_id=(C A_4 T_4 G)_15
+[20180310 02:18:03] [info] service time (0.138803s, 7.204/s)
+[20180310 02:18:09] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180310 02:18:09] [info] dataprovider: processing param_id="PS4", seq_id=(C A_4 T_4 G)_15
+[20180310 02:18:09] [info] service time (0.146921s, 6.806/s)
+[20180310 02:18:19] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180310 02:18:19] [info] dataprovider: processing param_id="PS4", seq_id=(G T_4 A_4 C)_15
+[20180310 02:18:20] [info] service time (0.128052s, 7.809/s)
+[20180310 20:37:15] [info] if_loggedin: granting access to /view1 to generic user at 128.178.109.243
+[20180311 16:09:56] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180311 16:09:56] [info] dataprovider: processing param_id=PS4, seq_id=(a_5 g_5 t_5 c_5 g)_2 a_5 g_5 t_5 c_5 [g](a_5 g_5 t_5 c_5 g)_2
+[20180311 16:09:56] [info] service time (0.132897s, 7.525/s)
+[20180311 16:11:21] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180311 16:11:21] [info] dataprovider: processing param_id=PS4, seq_id=(a_5 g_5 t_5 c_5 g)_2 a_5 g_5 t_5 c_5 [g](a_5 g_5 t_5 c_5 g)_2
+[20180311 16:11:21] [info] service time (0.130805s, 7.645/s)
+[20180311 16:12:09] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180311 16:12:09] [info] dataprovider: processing param_id=PS4, seq_id=(a_5 g_5 t_5 c_5 g)_2 a_5 g_5 t_5 c_5 [g](a_5 g_5 t_5 c_5 g)_2
+[20180311 16:12:09] [info] service time (0.095246s, 10.499/s)
+[20180311 16:12:38] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180311 16:12:38] [info] dataprovider: processing param_id=PS4, seq_id=(a_5 g_4 t_5 c_5 g)_2 a_5 g_4 t_5 c_5 [g](a_5 g_4 t_5 c_5 g)_2
+[20180311 16:12:38] [info] service time (0.134196s, 7.452/s)
+[20180311 16:13:14] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180311 16:13:14] [info] dataprovider: processing param_id=PS4, seq_id=(a_5 g_5 t_5 c_5 g)_2 a_5 g_5 t_5 c_5 [g](a_5 g_5 t_5 c_5 g)_2
+[20180311 16:13:14] [info] service time (0.129573s, 7.718/s)
+[20180311 16:13:47] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180311 16:13:47] [info] dataprovider: processing param_id=PS4, seq_id=(a_5 g_4 t_5 c_5 g)_2 a_5 g_4 t_5 c_5 [g](a_5 g_4 t_5 c_5 g)_2
+[20180311 16:13:47] [info] service time (0.134771s, 7.420/s)
+[20180311 16:14:35] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180311 16:14:35] [info] dataprovider: processing param_id=PS4, seq_id=(a_5 g_4 t_5 c_4 g)_2 a_5 g_4 t_5 c_4 [g](a_5 g_4 t_5 c_4 g)_2
+[20180311 16:14:35] [info] service time (0.127191s, 7.862/s)
+[20180311 20:37:56] [info] if_loggedin: granting access to /view1 to generic user at 128.178.109.243
+[20180312 02:24:05] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180312 02:24:06] [info] dataprovider: processing param_id="PS4", seq_id=AAATTGTAAACGTTAATATTTTGTTAAAATTCGCGTTAAATTTTTGTTAAATCAGC
+[20180312 02:24:06] [info] service time (0.103365s, 9.674/s)
+[20180312 02:25:59] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180312 02:25:59] [info] dataprovider: processing param_id="PS4", seq_id=(AAATTGTAAACGTTAATATTTTGTTAAAATTCGCGTTAAATTTTTGTTAAATCAGC)_50
+[20180312 02:26:03] [info] service time (4.517942s, 0.221/s)
+[20180312 02:28:06] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180312 02:28:06] [info] dataprovider: processing param_id="PS4", seq_id=(A_6 G_4 A_6 G_4)_50
+[20180312 02:28:06] [info] service time (0.771659s, 1.296/s)
+[20180312 02:30:23] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180312 02:30:23] [info] dataprovider: processing param_id="PS4", seq_id=(A_6 G_4)_50
+[20180312 02:30:23] [info] service time (0.284688s, 3.513/s)
+[20180312 02:36:57] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180312 02:36:57] [info] dataprovider: processing param_id="PS4", seq_id=(A_6 G_4)_1000
+[20180312 02:36:57] [info] service time (0.019789s, 50.533/s)
+[20180312 02:37:03] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180312 02:37:03] [info] dataprovider: processing param_id="PS4", seq_id=(A_6 G_4)_100
+[20180312 02:37:04] [info] service time (0.731225s, 1.368/s)
+[20180312 02:37:54] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180312 02:37:54] [info] dataprovider: processing param_id="PS4", seq_id=(A_10)_100
+[20180312 02:37:55] [info] service time (0.751873s, 1.330/s)
+[20180312 02:43:34] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180312 02:43:34] [info] dataprovider: processing param_id="PS4", seq_id=(A_6 G_4)_80
+[20180312 02:43:34] [info] service time (0.52415s, 1.908/s)
+[20180312 07:12:51] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180312 07:12:51] [info] dataprovider: processing param_id=PS4, seq_id= (A_6 G_4)_80
+[20180312 07:12:51] [info] service time (0.548152s, 1.824/s)
+[20180312 07:13:34] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180312 07:13:34] [info] dataprovider: processing param_id=PS4, seq_id= (A_6 G_4)_80
+[20180312 07:13:34] [info] service time (0.508623s, 1.966/s)
+[20180312 07:15:11] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180312 07:15:11] [info] dataprovider: processing param_id=PS4, seq_id=Aaaaa
+[20180312 07:15:11] [info] service time (0.061378s, 16.292/s)
+[20180312 07:15:23] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180312 07:15:23] [info] dataprovider: processing param_id=PS4, seq_id=Aaaaa
+[20180312 07:15:23] [info] service time (0.0615s, 16.260/s)
+[20180312 07:15:56] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180312 07:15:56] [info] dataprovider: processing param_id=PS4, seq_id=Aaaaa
+[20180312 07:15:56] [info] service time (0.052764s, 18.952/s)
+[20180312 07:16:45] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180312 07:16:45] [info] dataprovider: processing param_id=PS4, seq_id=(A_6 G_4)_80
+[20180312 07:16:46] [info] service time (0.508322s, 1.967/s)
+[20180312 07:18:40] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180312 07:18:40] [info] dataprovider: processing param_id=PS4, seq_id=(A_6 G_4)_10
+[20180312 07:18:40] [info] service time (0.091963s, 10.874/s)
+[20180312 07:21:26] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180312 07:21:26] [info] dataprovider: processing param_id=PS4, seq_id=(A_6 G_4)_80
+[20180312 07:21:27] [info] service time (0.533793s, 1.873/s)
+[20180312 10:51:51] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180312 10:51:51] [info] dataprovider: processing param_id="PS4", seq_id=(A_6 G_4)_80
+[20180312 10:51:51] [info] service time (0.517238s, 1.933/s)
+[20180312 13:18:06] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180312 13:18:06] [info] dataprovider: processing param_id="PS4", seq_id=(A_6 G_4)_80
+[20180312 13:18:06] [info] service time (0.524175s, 1.908/s)
+[20180312 13:51:27] [info] Starting zero downtime software upgrade
+[20180312 13:51:27] [info] Listening at "http://*:3457"
+[20180312 13:51:27] [info] Manager 101705 started
+[20180312 13:51:27] [info] Upgrade successful, stopping 97420
+[20180312 13:51:27] [info] Creating process id file "/home/debruin/cgdna_web/script/hypnotoad.pid"
+[20180312 13:51:27] [info] Manager 97420 stopped
+[20180312 14:12:33] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180312 14:12:33] [info] dataprovider: processing param_id=PS4, seq_id=AAAAAAGGGGAAAAAAGGGGAAAAAAGGGGAAAAAAGGGGAAAAAAGGGGAAAAAAGGGG
+[20180312 14:12:33] [info] service time (0.080275s, 12.457/s)
+[20180312 14:14:09] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180312 14:14:09] [info] dataprovider: processing param_id=PS3, seq_id=AAAAAAGGGGAAAAAAGGGGAAAAAAGGGGAAAAAAGGGGAAAAAAGGGGAAAAAAGGGG
+[20180312 14:14:09] [info] service time (0.080171s, 12.473/s)
+[20180312 14:14:51] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180312 14:14:51] [info] dataprovider: processing param_id=PS2, seq_id=AAAAAAGGGGAAAAAAGGGGAAAAAAGGGGAAAAAAGGGGAAAAAAGGGGAAAAAAGGGG
+[20180312 14:14:51] [info] service time (0.061668s, 16.216/s)
+[20180312 15:36:47] [info] Manager 101705 stopped
+[20180312 15:36:47] [info] Listening at "http://*:3457"
+[20180312 15:36:47] [info] Manager 101870 started
+[20180312 15:36:47] [info] Creating process id file "/home/debruin/cgdna_web/script/hypnotoad.pid"
+[20180312 17:32:57] [info] if_loggedin: granting access to /data2 to generic user at 127.0.0.1
+[20180312 17:32:57] [info] dataprovider: processing param_id="PS4", seq_id=A_10
+[20180312 17:32:57] [info] service time (0.060634s, 16.492/s)
